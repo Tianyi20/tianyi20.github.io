@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 I'm a Robotics master student from Yale University. I like Applied Planning, Learning, and Optimization with practical robots!
 
 My research primarily involves formulating planning, learning, and optimization algorithms that allow robot manipulation platforms to effectively complete tasks.
