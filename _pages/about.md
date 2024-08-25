@@ -20,5 +20,5 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 #Publications:
 
-[1] Tianyi Xiang1, et al. [“A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin”.](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin%(4).pdf) [29th International Conference on Automation and Computing (ICAC 2024) (Accepted) ]
-[2] Tianyi Xiang1, et al. ["Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing,"](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_(3)(1).pdf) [20th International Conference on Automation Science and Engineering (CASE 2024)(Accepted)]
+[1] Tianyi Xiang1, et al. [“A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin”.](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [29th International Conference on Automation and Computing (ICAC 2024) (Accepted) ]
+[2] Tianyi Xiang1, et al. ["Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing,"](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) [20th International Conference on Automation Science and Engineering (CASE 2024)(Accepted)]
