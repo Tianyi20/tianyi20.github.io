@@ -23,10 +23,6 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 # My Previous Projects
 
-{% raw %}
-{% include youtube.html id="JLMbpiywVxQ" %}  
-{% endraw %}
-
 {% include youtube.html id="f_BEMbMvFso" %}  
 
 
