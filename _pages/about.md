@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Profili
-I'm a Robotics master student from Yale University. I like Applied Planning, Learning, and Optimization with practical robots!
+I'm a Robotics master student from [Yale University](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science), major in [mechanical engineering & material science](https://seas.yale.edu/faculty-research/research-areas/robotics-mechatronics-and-human-machine-interface). I like Applied Planning, Learning, and Optimization with practical robots!
 
 My research primarily involves formulating planning, learning, and optimization algorithms that allow robot manipulation platforms to effectively complete tasks.
 
@@ -31,5 +31,5 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 
 ## Autonomous tracking DIY Mars Rover Design
-{% include youtube.html id="Woah0fB-n9M&t=1s" %}  
+{% include youtube.html id="Woah0fB-n9M" %}  
 
