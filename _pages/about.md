@@ -24,10 +24,13 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 [2] Tianyi Xiang1, et al. ["Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing,"](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) [20th International Conference on Automation Science and Engineering (CASE 2024)(Accepted)]
 
-# My Previous Projects Video
+# My Previous Projects Video & Pictures
 
 ##  Simple and Novel Motion Planning work within Digital Twin Framework
 {% include youtube.html id="f_BEMbMvFso" %}  
+
+## Vision-learning based Soft Actuator Grasping Control within Digital Twin
+![OpenCV based Soft Actuator Grasping Control in Unity3D](images/soft_gripper.png)
 
 
 ## Autonomous tracking DIY Mars Rover Design
