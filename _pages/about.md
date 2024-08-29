@@ -35,10 +35,17 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 {% include youtube.html id="f_BEMbMvFso" %}  
 
 
+
+### Autonomous tracking DIY Mars Rover Design
+{% include youtube.html id="Woah0fB-n9M" %}  
+
+
 ###  ROS SLAM AGV navigation with Adaptive Monte Carlo Localization (AMCL)
 {% include youtube.html id="iu8w5aNAI_8" %}  
 
 
-### Autonomous tracking DIY Mars Rover Design
-{% include youtube.html id="Woah0fB-n9M" %}  
+###  AGV with PLC control optimisation simulation 
+![AGV optimisation](images/Dynamic optimisation of AGV.gif)
+
+
 
