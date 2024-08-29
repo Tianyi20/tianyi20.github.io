@@ -36,7 +36,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 
 
-### Autonomous tracking DIY Mars Rover Design
+###  Autonomous tracking DIY Mars Rover Design
 {% include youtube.html id="Woah0fB-n9M" %}  
 
 
@@ -44,7 +44,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 {% include youtube.html id="iu8w5aNAI_8" %}  
 
 
-###  AGV with PLC control optimisation simulation 
+###  [AGV with PLC control optimisation simulation] (../assets/Dynamic optimisation of AGV.pdf) 
 ![AGV optimisation](images/Dynamic optimisation of AGV.gif)
 
 
