@@ -26,12 +26,12 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 # My Previous Projects Video & Pictures
 
-### Vision-learning based Soft Actuator Grasping Control within Digital Twin
+### [Vision-learning based Soft Actuator Grasping Control within Digital Twin](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) 
 ![OpenCV based Soft Actuator Grasping Control in Unity3D](images/soft_gripper.png)
 
 
 
-###  Simple and Novel Motion Planning work within Digital Twin Framework
+###  [Simple and Novel Motion Planning work within Digital Twin Framework](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf)
 {% include youtube.html id="f_BEMbMvFso" %}  
 
 
