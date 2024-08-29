@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tianyi Xiang"
-  pronouns         : # example: "she/her"  
-  bio              : "Yale University Robotics Master student"
+  pronouns         : # example: "him/his"  
+  bio              : "Yale University Robotics Master student, focus on Motion planning, Soft robotics, Learning, Optimisation."
   location         : "New haven, United state"
   employer         : "Yale University"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
