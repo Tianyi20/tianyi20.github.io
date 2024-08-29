@@ -26,16 +26,16 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 # My Previous Projects Video & Pictures
 
-#### Vision-learning based Soft Actuator Grasping Control within Digital Twin
+### Vision-learning based Soft Actuator Grasping Control within Digital Twin
 ![OpenCV based Soft Actuator Grasping Control in Unity3D](images/soft_gripper.png)
 
 
 
-####  Simple and Novel Motion Planning work within Digital Twin Framework
+###  Simple and Novel Motion Planning work within Digital Twin Framework
 {% include youtube.html id="f_BEMbMvFso" %}  
 
 
-####  ROS SLAM AGV navigation with Adaptive Monte Carlo Localization (AMCL)
+###  ROS SLAM AGV navigation with Adaptive Monte Carlo Localization (AMCL)
 {% include youtube.html id="iu8w5aNAI_8" %}  
 
 
