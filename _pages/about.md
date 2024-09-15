@@ -22,11 +22,11 @@ The Statement of Proposal of my research can be illustrated as the **holistic in
 
 To achieve this goal, I have divided it into **three key areas**, each benefiting from my past experiences: 
 
-(A) **Learning for Grasping Decision-Making** – Diffusion Model, Reinfocement learning, Imitation learning, GR-CNN...; 
+* (A) **Learning for Grasping Decision-Making** – Diffusion Model, Reinfocement learning, Imitation learning, GR-CNN...; 
 
-(B) **Motion planning with Inverse Kinematics solved as optimisation problem** to achieve feasibility, accuracy, user-friendly [[1]](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [[2]](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) ; 
+* (B) **Motion planning with Inverse Kinematics solved as optimisation problem** to achieve feasibility, accuracy, user-friendly [[1]](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [[2]](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) ; 
 
-(C) **Multimodel perception** - Sensor Design along with motion detection such as TENG, Soft electronic, Visual tactile sensor [3].
+* (C) **Multimodel perception** - Sensor Design along with motion detection such as TENG, Soft electronic, Visual tactile sensor [3].
 
 
 
