@@ -19,7 +19,9 @@ The Statement of Proposal of my research can be illustrated as the holistic inte
 
 ![My Statement of Proposal](images/Project Overview.svg)
 
-To fullfill this goal, my research primarily involves: (A) Motion planning with Inverse Kinematics solved as optimisation problem to achieve feasibility, accuracy, user-friendly [[1]](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [[2]](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) ; (B) Learning to grasping decision (still in progress now); (C) Multimodel sensor Design such as TENG, Soft electronic, Visual tactile sensor [3].
+
+
+To achieve this goal, I have divided it into **three key areas**, each benefiting from my past experiences: (A) **Motion planning with Inverse Kinematics solved as optimisation problem** to achieve feasibility, accuracy, user-friendly [[1]](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [[2]](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) ; (B) **Learning for Grasping Decision-Making** – This part of the research is currently in progress.; (C) **Multimodel perception** - Sensor Design along with motion detection such as TENG, Soft electronic, Visual tactile sensor [3].
 
 
 
@@ -38,7 +40,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 [2] **Tianyi Xiang1, et al.** ["Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing,"](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) [20th International Conference on Automation Science and Engineering (CASE 2024)(Accepted)]
 
 
-[3] **Xie, B., Xie, Y., Ma, Y., Luo, N., Xiang, T., Chin, C., Wang, D., Wang, F., Li, B., Jiang, G., & Li, X.** (2024). "High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring". **ACS Applied Materials & Interfaces**. [Manuscript submitted for publication].
+[3] Xie, B., Xie, Y., Ma, Y., Luo, N., **Xiang, T.** , et al.(2024). "High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring". **ACS Applied Materials & Interfaces**. [Manuscript submitted for publication].
 
 
 # My Previous Projects Video & Pictures
@@ -57,7 +59,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 {% include youtube.html id="Woah0fB-n9M" %}  
 
 ### Tactile Sensing achieving human motion monitoring
-![Tactile Sensing](images/Soft_electronics.png)
+![Tactile Sensing](images/Soft_electronics_fit.png)
 
 
 ### Simple Motion Planning UR5 by Moveit Gazbo simulation
