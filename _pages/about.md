@@ -13,13 +13,15 @@ redirect_from:
 I'm a Robotics master student from [Yale University](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science), major in [mechanical engineering & material science](https://seas.yale.edu/faculty-research/research-areas/robotics-mechatronics-and-human-machine-interface). I like **Applied Motion Planning**, **Learning**, and **Optimization** with practical robots!
 
 
-The Statement of Proposal of my research can be illustrated as:
+**The goal of my work** is to enable people to intuitively control or work alongside robot manipulation platforms to perform critical tasks deemed unsuitable, undesirable, understaffed, or unsafe for people, such as industrial robotics arm assembly, remote teleoperation programming, soft robotics, and even control with virtual reality. I use interdisciplinary techniques across **robotics and computer science**, including **motion planning**,  **machine learning**, **vision**, **automation**, **virtual reality**, **communication system** to formulate and validate solutions within problems in diverse fields.
+
+The Statement of Proposal of my research can be illustrated as the holistic integrated task and motion planning, which is shown as Fig.1 below!
 
 ![My Statement of Proposal](images/Project Overview.svg)
 
-My research primarily involves formulating planning, learning, and optimization algorithms that allow robot manipulation platforms to effectively complete tasks.
+To fullfill this goal, my research primarily involves: (A) Motion planning with Inverse Kinematics solved as optimisation problem to achieve feasibility, accuracy, user-friendly [[1]](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [[2]](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) ; (B) Learning to grasping decision (still in progress now); (C) Multimodel sensor Design such as TENG, Soft electronic, Visual tactile sensor [3].
 
-**The goal of my work** is to enable people to intuitively control or work alongside robot manipulation platforms to perform critical tasks deemed unsuitable, undesirable, understaffed, or unsafe for people, such as industrial robotics arm assembly, remote teleoperation programming, soft robotics, and even control with virtual reality. I use interdisciplinary techniques across **robotics and computer science**, including **motion planning**,  **machine learning**, **vision**, **automation**, **virtual reality**, **communication system** to formulate and validate solutions within problems in diverse fields.
+
 
 **Contact**: Tianyi.Xiang@yale.edu
 
@@ -29,11 +31,15 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 # Publications:
 
-[1] Tianyi Xiang1, et al. [“A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin”.](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [29th International Conference on Automation and Computing (ICAC 2024) (Accepted) ]
+[1] **Tianyi Xiang1, et al.** [“A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin”.](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [29th International Conference on Automation and Computing (ICAC 2024) (Accepted) ]
 
 
 
-[2] Tianyi Xiang1, et al. ["Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing,"](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) [20th International Conference on Automation Science and Engineering (CASE 2024)(Accepted)]
+[2] **Tianyi Xiang1, et al.** ["Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing,"](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) [20th International Conference on Automation Science and Engineering (CASE 2024)(Accepted)]
+
+
+[3] **Xie, B., Xie, Y., Ma, Y., Luo, N., Xiang, T., Chin, C., Wang, D., Wang, F., Li, B., Jiang, G., & Li, X.** (2024). "High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring". **ACS Applied Materials & Interfaces**. [Manuscript submitted for publication].
+
 
 # My Previous Projects Video & Pictures
 
@@ -47,9 +53,11 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 
 
-
 ###  Autonomous tracking DIY Mars Rover Design
 {% include youtube.html id="Woah0fB-n9M" %}  
+
+### Tactile Sensing achieving human motion monitoring
+![Tactile Sensing](images/Soft_electronics.png)
 
 
 ### Simple Motion Planning UR5 by Moveit Gazbo simulation
