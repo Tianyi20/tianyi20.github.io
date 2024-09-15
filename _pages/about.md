@@ -45,6 +45,8 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 ###  [Simple and Novel Motion Planning work within Digital Twin Framework](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf)
 {% include youtube.html id="f_BEMbMvFso" %}  
 
+### Simple Motion Planning UR5 by Moveit Gazbo simulation
+{% include youtube.html id="gLQkY-P2cYY" %}  
 
 
 ###  Autonomous tracking DIY Mars Rover Design
