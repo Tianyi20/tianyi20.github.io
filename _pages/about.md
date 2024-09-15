@@ -15,13 +15,18 @@ I'm a Robotics master student from [Yale University](https://seas.yale.edu/depar
 
 **The goal of my work** is to enable people to intuitively control or work alongside robot manipulation platforms to perform critical tasks deemed unsuitable, undesirable, understaffed, or unsafe for people, such as industrial robotics arm assembly, remote teleoperation programming, soft robotics, and even control with virtual reality. I use interdisciplinary techniques across **robotics and computer science**, including **motion planning**,  **machine learning**, **vision**, **automation**, **virtual reality**, **communication system** to formulate and validate solutions within problems in diverse fields.
 
-The Statement of Proposal of my research can be illustrated as the holistic integrated task and motion planning, which is shown as Fig.1 below!
+The Statement of Proposal of my research can be illustrated as the **holistic integrated task and motion planning**, which is shown as Fig.1 below!
 
 ![My Statement of Proposal](images/Project Overview.svg)
 
 
+To achieve this goal, I have divided it into **three key areas**, each benefiting from my past experiences: 
 
-To achieve this goal, I have divided it into **three key areas**, each benefiting from my past experiences: (A) **Motion planning with Inverse Kinematics solved as optimisation problem** to achieve feasibility, accuracy, user-friendly [[1]](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [[2]](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) ; (B) **Learning for Grasping Decision-Making** – This part of the research is currently in progress.; (C) **Multimodel perception** - Sensor Design along with motion detection such as TENG, Soft electronic, Visual tactile sensor [3].
+(A) **Motion planning with Inverse Kinematics solved as optimisation problem** to achieve feasibility, accuracy, user-friendly [[1]](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [[2]](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) ; 
+
+(B) **Learning for Grasping Decision-Making** – This part of the research is currently in progress.; 
+
+(C) **Multimodel perception** - Sensor Design along with motion detection such as TENG, Soft electronic, Visual tactile sensor [3].
 
 
 
