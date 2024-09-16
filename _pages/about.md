@@ -17,7 +17,7 @@ I'm a Robotics master student from [Yale University](https://seas.yale.edu/depar
 
 The Statement of Proposal of my research can be illustrated as the **holistic integrated task and motion planning**, which is shown as Fig.1 below!
 
-![My Statement of Proposal](images/Project Overview.png)
+![My Statement of Proposal](images/project overview.png)
 
 
 To achieve this goal, I have divided it into **three key areas**, each benefiting from my past experiences: 
