@@ -56,7 +56,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 
 ### Behaviour cloning (BC) learning-based Block Pushing task 
-{% include youtube.html id="F1aiQkVkLGo" %}  
+{% include youtube.html id="dakwQ2TanH8" %}  
 
 
 ### [Vision-learning based Soft Actuator Grasping Control within Digital Twin](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) 
