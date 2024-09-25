@@ -22,7 +22,7 @@ The Statement of Proposal of my research can be illustrated as the **holistic in
 
 To achieve this goal, I have divided it into **four key areas**, each benefiting from my past experiences: 
 
-* (A) **Hybrid Task Planning** – Task and Motion planning (TAMP), Reinforcement Learning, Behaviour Cloning (should transfer to task skill) to let robots model new environment and know how to obtain there.
+* (A) **Hybrid Task Planning** – Task and Motion planning (TAMP), Reinforcement Learning, Behaviour Cloning (should transfer to task skill) to let robots model new environment and know how to plan sequence.
 
 * (B) **Single Skill Learning** - Learning-based, Optimisation-based motion planning, and Visual-to-Geometry & physical estimation(ongoing) combine together to a scalable skill acquisition.
 
