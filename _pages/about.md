@@ -15,18 +15,20 @@ I'm a Robotics master student from [Yale University](https://seas.yale.edu/depar
 
 **The goal of my work** is to enable people to intuitively control or work alongside robot manipulation platforms to perform critical tasks deemed unsuitable, undesirable, understaffed, or unsafe for people, such as industrial robotics arm assembly, remote teleoperation programming, soft robotics, and even control with virtual reality. I use interdisciplinary techniques across **robotics and computer science**, including **motion planning**,  **machine learning**, **visual-perception**, **virtual reality**, **communication system** to formulate and validate solutions within problems in diverse fields.
 
-The Statement of Proposal of my research can be illustrated as the **holistic integrated task and motion planning**!
+The Statement of Proposal of my research can be illustrated as the **holistic integrated task and motion planning**! And I consider it as a dynamic system.
 
-![My Statement of Proposal](images/project overview.jpg)
+![My Statement of Proposal](images/project overview_1.png)
 
 
-To achieve this goal, I have divided it into **three key areas**, each benefiting from my past experiences: 
+To achieve this goal, I have divided it into **four key areas**, each benefiting from my past experiences: 
 
-* (A) **Hybrid Skill Planning** – Task and Motion planning (PDDL), Reinforcement Learning, Behaviour Cloning (should transfer to task skill)...; 
+* (A) **Hybrid Skill Planning** – Task and Motion planning (PDDL), Reinforcement Learning, Behaviour Cloning (should transfer to task skill) to let robots model new environment and know how to obtain there.
 
-* (B) **Motion planning, Perception, Control & Optimisation** - Optimisation-based motion planning, Sampling-based optimisation, Visual-to-Geometry & physical estimation(ongoing), Soft Actuator applied motion planning ...; 
+* (B) **Single Task Planning: Learning-based + Optimisation-based planning +  Perception** - Learning-based, Optimisation-based motion planning, and Visual-to-Geometry & physical estimation(ongoing) combine together to a scalable skill acquisition.
 
 * (C) **Multimodel-Sensor Perception** - Sensor Design along with motion detection such as TENG, Soft electronic, Visual tactile sensor.
+
+* (d) **Domain, goal generation** - NLP, LLM to automatically generate domain and goal descriptions for task planning.
 
 
 
@@ -50,7 +52,8 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 # Projects Video & Pictures
 
-### Ongoing Project: Fork PDDLstream Task and Motion planning (TAMP) to liquid handling task 
+### Ongoing Project: Fork PDDLstream Task and Motion planning (TAMP) to liquid handling task. 
+(Still ongoing, this is a simulation fork demo from Caelan Reed Garrett LTAMP)
 {% include youtube.html id="vuVLHsrkUqk" %}  
 
 
