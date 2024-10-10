@@ -54,6 +54,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 ### Ongoing Project: Fork PDDLstream Task and Motion planning (TAMP) to liquid handling task. 
 (Still ongoing, this is a simulation fork demo from Caelan Reed Garrett LTAMP)
+
 {% include youtube.html id="vuVLHsrkUqk" %}  
 
 {% include youtube.html id="LqMx6QHjc1E" %}  
@@ -79,10 +80,6 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 ### Tactile Sensing achieving human motion monitoring
 ![Tactile Sensing](images/Soft_electronics_fit.png)
-
-
-### Simple Motion Planning UR5 by Moveit Gazbo simulation
-{% include youtube.html id="gLQkY-P2cYY" %}  
 
 
 ###  ROS SLAM AGV navigation with Adaptive Monte Carlo Localization (AMCL)
