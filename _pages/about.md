@@ -56,6 +56,8 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 (Still ongoing, this is a simulation fork demo from Caelan Reed Garrett LTAMP)
 {% include youtube.html id="vuVLHsrkUqk" %}  
 
+{% include youtube.html id="LqMx6QHjc1E" %}  
+
 
 
 ### Behaviour cloning (BC) learning-based Block Pushing task 
