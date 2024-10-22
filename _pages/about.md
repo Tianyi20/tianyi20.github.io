@@ -40,11 +40,11 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 # Publications:
 
-[1] **Tianyi Xiang1, et al.** [“A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin”.](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) [29th International Conference on Automation and Computing (ICAC 2024) (Accepted) ]
+[1] **Tianyi Xiang1, et al.** [“A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin”.](https://arxiv.org/pdf/2410.14928) [29th International Conference on Automation and Computing (ICAC 2024) (Accepted) ]
 
 
 
-[2] **Tianyi Xiang1, et al.** ["Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing,"](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf) [20th International Conference on Automation Science and Engineering (CASE 2024)(Accepted)]
+[2] **Tianyi Xiang1, et al.** ["Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing,"](https://arxiv.org/pdf/2410.14934) [20th International Conference on Automation Science and Engineering (CASE 2024)(Accepted)]
 
 
 [3] Xie, B., Xie, Y., Ma, Y., Luo, N., **Xiang, T.** , et al.(2024). "High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring". **ACS Applied Materials & Interfaces**. [Manuscript submitted for publication].
@@ -65,12 +65,12 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 {% include youtube.html id="dakwQ2TanH8" %}  
 
 
-### [Vision-learning based Soft Actuator Grasping Control within Digital Twin](../assets/A_Novel_Approach_to_Grasping_Control_of_Soft_Robotic_Grippers_based_on_Digital_Twin (4).pdf) 
+### [Vision-learning based Soft Actuator Grasping Control within Digital Twin](https://arxiv.org/pdf/2410.14934) 
 ![OpenCV based Soft Actuator Grasping Control in Unity3D](images/soft_gripper.png)
 
 
 
-###  [Simple and Novel Motion Planning work within Digital Twin Framework](../assets/Development_of_a_Simple_and_Novel_Digital_Twin_Framework_for_Industrial_Robots_in_Intelligent_robotics_manufacturing__Revised_ (3) (1).pdf)
+###  [Simple and Novel Motion Planning Digital Twin Framework for Industrial Robot](https://arxiv.org/pdf/2410.14928)
 {% include youtube.html id="f_BEMbMvFso" %}  
 
 
