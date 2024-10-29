@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Tianyi Xiang"
   pronouns         : # example: "him/his"  
-  bio              : "Yale University Robotics Master student, focus on Motion planning, Soft robotics, Learning, Optimisation.  Contact: Tianyi.Xiang@yale.edu"    
+  bio              : "Yale University Robotics Master student, focus on Task and Motion Planning, Applied Motion planning, Soft robotics, Imitation Learning, Optimisation.  Contact: Tianyi.Xiang@yale.edu"    
   location         : "New haven, United state"
   employer         : "Yale University"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=7wS0WZUAAAAJ&view_op=list_works&gmla=AL3_ziinhUnJF47snXZWZyvrJo4-DC0-6NJJTfA4ysaJVIlNFDh_ozWRXrLw9yg5H8dk0KFiKHEsYTp6Ee-OqM9_zKnpToXQRu53jeSBpis"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
