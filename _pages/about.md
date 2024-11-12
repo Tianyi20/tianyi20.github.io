@@ -40,7 +40,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 # Publications:
 
-[1]**A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin**  
+[1]**"A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin"**  
 **Tianyi Xiang**, Borui Li, Quan Zhang, March Leach, Enggee Lim  
 29th International Conference on Automation and Computing (ICAC 2024), In press  
 [Paper](https://arxiv.org/pdf/2410.14928)
@@ -52,7 +52,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 [3] **"High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring"**  
 Xie, B., Xie, Y., Ma, Y., Luo, N., **Tianyi Xiang**, et al.  
-**ACS Applied Materials & Interfaces**, Manuscript submitted for publication (2024)
+ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
 
 
 
