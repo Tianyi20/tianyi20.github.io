@@ -1,9 +1,9 @@
 ---
-title: 'Blog Post number 2'
+title: 'euler angle and quaternion and how to do superposition '
 date: 2013-08-14
 permalink: /posts/2024/11/blog-post-2/euler-angle
 tags:
-  - euler angle, how to realize
+  - euler angle, how to realize superposition
   - quaternion
   - ROS, tf
 ---
