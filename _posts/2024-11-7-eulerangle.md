@@ -8,7 +8,7 @@ tags:
   - ROS, tf
 ---
 
-首先普及基础知识.
+首先普及基础知识 欧拉角 and quaternion，fianlly do superposition rotation.
 
 欧拉角，Tait–Bryan angles 也被称为Cardan angles, nautical angles, (heading, elevation, and bank),(yaw, pitch, and roll). 我们接触的比较多的是yaw(偏航), pitch(俯仰), roll(横滚).三个变量一般对应(车体,飞行器的)z,y,x三个坐标轴
 
