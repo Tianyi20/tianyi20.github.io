@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My education and Skills"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **YALE University**  
+  New Haven, CT, USA  
+  - M.S. in Mechanical Engineering & Material Science  
+  - Aug 2024 - Jun 2025
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Xi’an Jiaotong-Liverpool University (XJTLU)**  
+  Suzhou, JiangSu, CH  
+  - B.S. in Mechatronics and Robotics System  
+  - Major GPA: 4.0/4.0 ; Main GPA: 3.84/4.0
+  - Honor: [Best Overall Performance Award (Rank 1 Four Years)](assets/Best_performance_Overall.pdf)
+  - Aug 2020 - May 2024
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Knowledge & Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+| **Category**                  | **Details**                                                                                               |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Knowledge                     | Robotics, Machine Learning, Virtual Reality (Unity 3D, Blender)  |
+| Programming Languages         | Python, C, C++, C#, ROS, MATLAB, RAPID(ABB), PDDL |
+| Robotics Tools                | ROS (Melodic & Noetic), MOVEIT 1, Gazebo, Pybullet, MATLAB(Peter Corke)                                              |
+| Machine Learning Frameworks    | PyTorch  |
+| Game and Simulation Engines   | Unity 3D, Blender    |
+| CAD Software                  |  SolidWorks, CAD, 嘉立创(Drawing PCB board), Rasberry Pi with Servos, DC Motors,....                               |
+| Language                      | Mandarin, English(IELTS 7.0)  |
+| Other Technical Skills        | Docker, LaTeX,  Postman(communication protocal), Origin|
+
+
+
+## Awards and Honors
+
+| **Year** | **Award**                                                                                                      | **Institution**                                |
+|----------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| 2024     | *Best Overall Academic Performance (Rank 1 Overall)*                                                           | Xi’an Jiaotong-Liverpool University            |
+| 2023     | *University Academic Excellence Award (Rank 1/36)*                                                             | Xi’an Jiaotong-Liverpool University            |
+| 2023     | *University Summer Undergraduate Research Fellow*                                                              | Xi’an Jiaotong-Liverpool University            |
+| 2022     | *ABB Smart Innovation Competition: First prize (Rank 3/275)*                                                   | ABB, B&R Industrial Automation                 |
+| 2022     | *University Academic Excellence Award (Rank 1/64)*                                                             | Xi’an Jiaotong-Liverpool University            |
+| 2022     | *University Summer Undergraduate Research Fellow*                                                              | Xi’an Jiaotong-Liverpool University            |
