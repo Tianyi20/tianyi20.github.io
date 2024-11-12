@@ -40,14 +40,20 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 # Publications:
 
-[1] **Tianyi Xiang1, et al.** [“A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin”.](https://arxiv.org/pdf/2410.14928) [29th International Conference on Automation and Computing (ICAC 2024) (Accepted) ]
+[1]**A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin**  
+**Tianyi Xiang**, Borui Li, Quan Zhang, March Leach, Enggee Lim  
+29th International Conference on Automation and Computing (ICAC 2024), In press  
+[Paper](https://arxiv.org/pdf/2410.14928)
 
+[2] **"Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing"**  
+**Tianyi Xiang**, Borui Li, Quan Zhang 
+20th International Conference on Automation Science and Engineering (CASE 2024), In press   
+[Paper](https://arxiv.org/pdf/2410.14934); [Video](https://www.youtube.com/watch?time_continue=1&v=f_BEMbMvFso&embeds_referring_euri=https%3A%2F%2Ftianyi20.github.io%2F&source_ve_path=Mjg2NjY)
 
+[3] **"High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring"**  
+Xie, B., Xie, Y., Ma, Y., Luo, N., **Tianyi Xiang**, et al.  
+**ACS Applied Materials & Interfaces**, Manuscript submitted for publication (2024)
 
-[2] **Tianyi Xiang1, et al.** ["Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing,"](https://arxiv.org/pdf/2410.14934) [20th International Conference on Automation Science and Engineering (CASE 2024)(Accepted)]
-
-
-[3] Xie, B., Xie, Y., Ma, Y., Luo, N., **Xiang, T.** , et al.(2024). "High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring". **ACS Applied Materials & Interfaces**. [Manuscript submitted for publication].
 
 
 # Projects Video & Pictures
