@@ -22,7 +22,7 @@ Education
   Suzhou, JiangSu, CH  
   - B.S. in Mechatronics and Robotics System  
   - Major GPA: 4.0/4.0 ; Main GPA: 3.84/4.0
-  - Honor: [Best Overall Performance Award (Rank 1 Four Years)](assets/Best_performance_Overall.pdf)
+  - Honor: [Best Overall Performance Award (Rank 1 Four Years)](../assets/Best_performance_Overall.pdf)
   - Aug 2020 - May 2024
 
 
