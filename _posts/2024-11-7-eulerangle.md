@@ -1,6 +1,6 @@
 ---
 title: 'euler angle and quaternion and how to do superposition '
-date: 2013-08-14
+date: 2024-11-10
 permalink: /posts/2024/11/blog-post-2/euler-angle
 tags:
   - euler angle, how to realize superposition
