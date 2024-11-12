@@ -5,20 +5,23 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
+    
+  - title: "Education"
+    url: /cv/
     
   - title: "CV"
     url: /assets/CV_Tianyi_Xiang_Yale.pdf
@@ -26,5 +29,5 @@ main:
   - title: "My Personal Statement"
     url: /assets/Personal Statement.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
