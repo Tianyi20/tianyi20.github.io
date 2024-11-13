@@ -5,6 +5,7 @@ permalink: /posts/2024/11/blog-post-constrain planning/
 tags:
   - my code
 ---
+![image](https://github.com/user-attachments/assets/c54717c8-09bb-4b7c-8e00-f282b66d2f41)
 
 ```python
 #!/usr/bin/env python
