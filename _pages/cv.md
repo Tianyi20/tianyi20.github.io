@@ -20,7 +20,7 @@ Education
 
 - **Xi’an Jiaotong-Liverpool University (XJTLU)**  
   Suzhou, JiangSu, CH  
-  - B.S. in Mechatronics and Robotics System  
+  - B.eng. in Mechatronics and Robotics System  
   - Major GPA: 4.0/4.0 ; Main GPA: 3.84/4.0
   - Honor: [Best Overall Performance Award (Rank 1 Four Years)](../assets/Best_performance_Overall.pdf)
   - Aug 2020 - May 2024
@@ -34,10 +34,11 @@ Knowledge & Skills
 |-------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Knowledge                     | Robotics, Machine Learning, Virtual Reality (Unity 3D, Blender)  |
 | Programming Languages         | Python, C, C++, C#, ROS, MATLAB, RAPID(ABB), PDDL |
-| Robotics Tools                | ROS (Melodic & Noetic), MOVEIT 1, Gazebo, Pybullet, MATLAB(Peter Corke)                                              |
+| Robotics Tools                | ROS (Melodic & Noetic), MOVEIT 1, SLAM(AMCL) Gazebo, Pybullet, MATLAB(Peter Corke)                                              |
 | Machine Learning Frameworks    | PyTorch  |
-| Game and Simulation Engines   | Unity 3D, Blender    |
 | CAD Software                  |  SolidWorks, CAD, 嘉立创(Drawing PCB board), Rasberry Pi with Servos, DC Motors,....                               |
+| Robots I worked with                  |  ABB IRB120, UR5e, Panda(simulation), A DIY Mars Rover |
+| Game and Simulation Engines   | Unity 3D, Blender    |
 | Language                      | Mandarin, English(IELTS 7.0)  |
 | Other Technical Skills        | Docker, LaTeX,  Postman(communication protocal), Origin|
 
