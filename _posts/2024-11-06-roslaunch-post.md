@@ -7,13 +7,6 @@ tags:
   - category1
   - category2
 ---
-
-# Writing ROSlaunch file is inevitable always.I am here to briefly desrible some important elements in ROS launch file.
-
-# Writing ROSlaunch file is inevitable always.I am here to briefly desrible some important elements in ROS launch file.
-
-I post an example of moveit roslaunch file here:
-
 ```
 <launch>
 
@@ -30,6 +23,14 @@ I post an example of moveit roslaunch file here:
   <rosparam command="load" file="$(find panda_moveit_config)/config/sensors_kinect_pointcloud.yaml" />
 </launch>
 ```
+
+# Writing ROSlaunch file is inevitable always.I am here to briefly desrible some important elements in ROS launch file.
+
+# Writing ROSlaunch file is inevitable always.I am here to briefly desrible some important elements in ROS launch file.
+
+I post an example of moveit roslaunch file here:
+
+
 
 ```
 <launch>
