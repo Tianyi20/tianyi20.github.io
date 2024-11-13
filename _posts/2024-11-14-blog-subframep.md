@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 3'
+title: 'Subframe and cartesian path design in liquid pouling with my py code'
 date: 2024-11-13
 permalink: /posts/2024/12/blog-post-subframe.py/
 tags:
