@@ -62,7 +62,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
 (Still ongoing, this is a simulation fork demo from Caelan Reed Garrett LTAMP)
 {% include youtube.html id="vuVLHsrkUqk" %}  
 
-### Constrained Liquid Pouring Task with reorientation, and scene & object perception 
+### Constrained Liquid Pouring Task with Path Constrain Collision Avoidance, subframe reorientation, and scene & object perception 
 {% include youtube.html id="peq9zsVn2BY" %}  
 
 
