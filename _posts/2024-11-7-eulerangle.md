@@ -8,13 +8,14 @@ tags:
   - ROS, tf
 ---
 
+![image](https://github.com/user-attachments/assets/2446cdf2-1379-48b2-b832-ce35ba58665b)
+
 首先普及基础知识 欧拉角 and quaternion，fianlly do superposition rotation.
 
 欧拉角，Tait–Bryan angles 也被称为Cardan angles, nautical angles, (heading, elevation, and bank),(yaw, pitch, and roll). 我们接触的比较多的是yaw(偏航), pitch(俯仰), roll(横滚).三个变量一般对应(车体,飞行器的)z,y,x三个坐标轴
 
 [网站：https://compsci290-s2016.github.io/CoursePage/Materials/EulerAnglesViz/](https://compsci290-s2016.github.io/CoursePage/Materials/EulerAnglesViz/)
 
-![image](https://github.com/user-attachments/assets/2446cdf2-1379-48b2-b832-ce35ba58665b)
 
 一般对于旋转矩阵(3*3),旋转向量/角轴(3*1),四元数(4*1),我们给定一串数字,就能表示清楚一个姿态/旋转.比如这里给出一个旋转矩阵R:
 
