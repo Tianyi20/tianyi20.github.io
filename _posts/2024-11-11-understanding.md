@@ -9,6 +9,7 @@ tags:
   - ROS
   - Moviet
 ---
+![image](https://github.com/user-attachments/assets/b17911b1-feee-4986-ba18-adf1aa812f61)
 
 今天在聊天时候 突然发现自己对 sampling based motion planning 和 optimisation based planning 有误解。写一个帖子记录一下。
 
@@ -20,7 +21,6 @@ reference :
 
 Firstly, it comes to how to minimize the distance within start position and end position. noting it is within configuration space (关节空间) . 
 
-![image](https://github.com/user-attachments/assets/b17911b1-feee-4986-ba18-adf1aa812f61)
 
 
 it comes to be a convex optimisation problem. 
