@@ -15,21 +15,20 @@ I'm a Robotics master student from [Yale University](https://seas.yale.edu/depar
 
 **The goal of my work** is to enable people to intuitively control or work alongside robot manipulation platforms to perform critical tasks deemed unsuitable, undesirable, understaffed, or unsafe for people, such as industrial robotics arm assembly, remote teleoperation programming, soft robotics, and even control with virtual reality. I use interdisciplinary techniques across **robotics and computer science**, including **motion planning**,  **machine learning**, **visual-perception**, **virtual reality**, **communication system** to formulate and validate solutions within problems in diverse fields.
 
-The Statement of Proposal of my research can be illustrated as the **holistic integrated task and motion planning**! And I consider it as a dynamic system.
+I always consider how to bring a true agent into household?! And I consider it as a dynamic system as follow.
 
-![My Statement of Proposal](images/project overview_1.png)
+![project_proposal](https://github.com/user-attachments/assets/d75ae4d9-36e0-4c43-b28e-ddd71f274163)
 
 
-To achieve this goal, I have divided it into **four key areas**, each benefiting from my past experiences: 
+To achieve this goal, I have divided it into **four key areas**, each benefiting from my past experiences:
 
-* (A) **Hybrid Task Planning** – Task and Motion planning (TAMP), Reinforcement Learning, Behaviour Cloning (should transfer to task skill) to let robots model new environment and know how to plan sequence.
+* (A) **Perception** – Category level Object Pose & Geometry & Mesh Estimation, better with Large Vision Modal.
 
-* (B) **Single Skill Learning** - Learning-based, Optimisation-based motion planning, and Visual-to-Geometry & physical estimation(ongoing) combine together to a scalable skill acquisition.
+* (B) **Vision Language Modal** – perform as robot's [brain]. Feed all stream coming from perception, task planner, achieving replanning in loop.  
 
-* (C) **Multimodel-Sensor Perception** - Sensor Design along with motion detection such as TENG, Soft electronic, Visual tactile sensor.
+* (C) **Basic Dyanmics** - general sampling based motion planning, with kinodynamics, deterity manipulation in special case.
 
-* (d) **Domain, goal generation** - NLP, LLM to automatically generate domain and goal descriptions for task planning.
-
+* (D) **Multimodel-Sensor Perception** - Visual sensor, along with tactile sensor such as TENG, Soft electronic, Visual tactile sensor.
 
 
 **Contact**: Tianyi.Xiang@yale.edu
