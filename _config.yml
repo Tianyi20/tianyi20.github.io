@@ -12,7 +12,7 @@ title                    : "Tianyi Xiang/ personal description"
 title_separator          : "-"
 name                     : &name "Tianyi Xiang"
 description              : &description "personal description"
-url                      : https://tianyi20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://tianyi20.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Tianyi Xiang"
   pronouns         : # example: "him/his"  
-  bio              : "Yale University Robotics Master student, focus on Task and Motion Planning, Applied Motion planning, Soft robotics, Imitation Learning, Optimisation.  Contact: Tianyi.Xiang@yale.edu"    
+  bio              : "Yale University Robotics Master student, Applied Motion planning, Perception, Vision Language Model, Soft robotics, Imitation Learning, Optimisation."  
+  Contact          : "Tianyi.Xiang@yale.edu"    
   location         : "New haven, United state"
   employer         : "Yale University"
   uri              : # URL
