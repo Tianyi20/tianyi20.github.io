@@ -1,7 +1,7 @@
 ---
 title: 'ROS launch file writing tutorial'
 date: 2024-11-6
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2024/11/blog-post-roslaunch/
 tags:
   - ROS launch
   - category1
