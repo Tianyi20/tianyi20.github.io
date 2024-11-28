@@ -40,18 +40,18 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 # Publications:
 
 [1] **"Real-to-Sim via End-to-End Differentiable Simulation and Rendering"**    
-Yifan Zhu, **Tianyi Xiang**,  Aaron Dollar, Zherong Pan
-IEEE Robotics and Automation Letters (RAL), Manuscript submitted for publication     
+Yifan Zhu, **Tianyi Xiang**,  Aaron Dollar, Zherong Pan            
+IEEE Robotics and Automation Letters (RAL), Manuscript submitted for publication      
 [Paper](_pages/RAL2024_SimFromVid (3).pdf)
 
 [2]**"A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin"**  
 **Tianyi Xiang**, Borui Li, Quan Zhang, March Leach, Enggee Lim  
-29th International Conference on Automation and Computing (ICAC 2024), In press  
+29th International Conference on Automation and Computing (ICAC 2024)    
 [Paper](https://arxiv.org/pdf/2410.14928)
 
 [3] **"Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing"**  
 **Tianyi Xiang**, Borui Li, Quan Zhang                             
-20th International Conference on Automation Science and Engineering (CASE 2024), In press   
+20th International Conference on Automation Science and Engineering (CASE 2024)       
 [Paper](https://arxiv.org/pdf/2410.14934); [Video](https://www.youtube.com/watch?time_continue=1&v=f_BEMbMvFso&embeds_referring_euri=https%3A%2F%2Ftianyi20.github.io%2F&source_ve_path=Mjg2NjY)
 
 [4] **"High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring"**  
