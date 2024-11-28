@@ -39,7 +39,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 # Publications:
 
-[1] **"Real-to-Sim via End-to-End Differentiable Simulation and Rendering"**
+[1] **"Real-to-Sim via End-to-End Differentiable Simulation and Rendering"**    
 Yifan Zhu, **Tianyi Xiang**,  Aaron Dollar, Zherong Pan
 IEEE Robotics and Automation Letters (RAL), Manuscript submitted for publication     
 [Paper](_pages/RAL2024_SimFromVid (3).pdf)
