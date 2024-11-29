@@ -62,13 +62,15 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
 
 # Projects Video & Pictures
 
-### Ongoing Project: Fork PDDLstream Task and Motion planning (TAMP) to liquid handling task. 
-(Still ongoing, this is a simulation fork demo from Caelan Reed Garrett LTAMP)
+
+
+### Liquid Manipulation: Category-level pose & dimension detector with pouring action optimizer
+{% include youtube.html id="5abfMeG9kW8" %}  
+
+
+### Forked PDDLstream Task and Motion planning (TAMP) online replanning.
+(simulation forked from Caelan Reed Garrett LTAMP)
 {% include youtube.html id="vuVLHsrkUqk" %}  
-
-### Constrained Liquid Pouring Task with Path Constrain Collision Avoidance, subframe reorientation, and scene & object perception 
-{% include youtube.html id="peq9zsVn2BY" %}  
-
 
 
 ### Behaviour cloning (BC) learning-based Block Pushing task 
