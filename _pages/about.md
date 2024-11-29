@@ -65,7 +65,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
 
 
 ### Liquid Manipulation: Category-level pose & dimension detector with pouring action optimizer
-{% include youtube.html id="5abfMeG9kW8" %}  
+{% include youtube.html id="IJx9HNuVD98" %}  
 
 
 ### Forked PDDLstream Task and Motion planning (TAMP) online replanning.
