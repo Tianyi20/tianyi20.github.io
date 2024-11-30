@@ -62,7 +62,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
 
 # Projects Video & Pictures
 
-### Real-to-Sim via End-to-End Differentiable Simulation and Rendering(_pages/RAL2024_SimFromVid (3).pdf)
+### [Real-to-Sim via End-to-End Differentiable Simulation and Rendering](_pages/RAL2024_SimFromVid (3).pdf)
 ![screenshot](https://github.com/user-attachments/assets/2dbceb80-58fd-42cd-bf19-18fcf3704acc)
 
 
