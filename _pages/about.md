@@ -42,7 +42,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 [1] **"Real-to-Sim via End-to-End Differentiable Simulation and Rendering"**    
 Yifan Zhu, **Tianyi Xiang**,  Aaron Dollar, Zherong Pan            
 IEEE Robotics and Automation Letters (RAL), Manuscript submitted for publication      
-[Paper](_pages/RAL2024_SimFromVid (3).pdf)
+[Paper](https://arxiv.org/pdf/2412.00259)
 
 [2]**"A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin"**  
 **Tianyi Xiang**, Borui Li, Quan Zhang, March Leach, Enggee Lim  
@@ -62,7 +62,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
 
 # Projects Video & Pictures
 
-### [Real-to-Sim via End-to-End Differentiable Simulation and Rendering](_pages/RAL2024_SimFromVid (3).pdf)
+### [Real-to-Sim via End-to-End Differentiable Simulation and Rendering](https://arxiv.org/pdf/2410.14928)
 ![screenshot](https://github.com/user-attachments/assets/2dbceb80-58fd-42cd-bf19-18fcf3704acc)
 
 
