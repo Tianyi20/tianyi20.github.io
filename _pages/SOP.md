@@ -21,8 +21,14 @@ Although perception and motion planning are most fundamental components of robot
 
 
 [1] T. Xiang, B. Li, X. Pan and Q. Zhang, "Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing," 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE). Available: https://ieeexplore.ieee.org/abstract/document/10711459
+
+
 [2] T. Xiang, B. Li, Q. Zhang, M. Leach and E. Lim, "A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin," 2024 29th International Conference on Automation and Computing (ICAC). Available: https://ieeexplore.ieee.org/abstract/document/10718822
+
+
 [3]“Atlas Goes Hands On,” Boston Dynamics. Accessed: Nov. 29, 2024. [Online]. Available: https://bostondynamics.com/video/atlas-goes-hands-on/
+
+
 [4] Y. Zhu, T. Xiang, A. Dollar, and Z. Pan, “Real-to-Sim via End-to-End Differentiable Simulation and Rendering”. Robotics and Automation Letters (RAL), Manuscript submitted for publication. Available: https://arxiv.org/pdf/2412.00259
 
 
