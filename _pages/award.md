@@ -8,8 +8,6 @@ redirect_from:
   - /assets/Best_performance_Overall.pdf
 ---
 
-# Awards and Achievements
-
 Welcome to my awards archive! Here you'll find a showcase of my accomplishments, along with descriptions of each award.
 
 ---
