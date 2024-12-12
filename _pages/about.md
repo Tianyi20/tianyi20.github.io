@@ -59,8 +59,6 @@ Xie, B., Xie, Y., Ma, Y., Luo, N., **Tianyi Xiang**, et al.
 ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
 
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,8 +68,13 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
+            line-height: 1.4;
             margin: 20px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 1.8em;
+            margin-bottom: 20px;
         }
         .publications-section {
             margin: 20px 0;
@@ -79,21 +82,22 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
         .publication-item {
             display: flex;
             align-items: flex-start;
-            margin-bottom: 20px;
-            gap: 15px;
+            margin-bottom: 30px;
+            gap: 20px;
         }
         .publication-item img {
-            width: 250px;
+            width: 300px; /* 更大图片 */
             height: auto;
-            border-radius: 4px;
+            border-radius: 6px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影 */
         }
         .publication-content {
             flex: 1;
         }
         .publication-title {
             font-weight: bold;
-            font-size: 1.1em;
-            margin: 0 0 5px;
+            font-size: 1em; /* 字体变小 */
+            margin: 0 0 10px;
         }
         .publication-links {
             margin-top: 5px;
@@ -101,10 +105,15 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
         .publication-links a {
             margin-right: 10px;
             text-decoration: none;
-            color: blue;
+            color: #007BFF; /* 蓝色链接 */
+            font-size: 0.9em;
         }
         .publication-links a:hover {
             text-decoration: underline;
+        }
+        .publication-content p {
+            font-size: 0.9em; /* 更小字体 */
+            margin: 5px 0;
         }
     </style>
 </head>
@@ -116,8 +125,8 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
         <img src="images/RAL.png" alt="Real-to-Sim">
         <div class="publication-content">
             <p class="publication-title">"Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
-            Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan  
-            <i>IEEE Robotics and Automation Letters (RAL)</i>, Manuscript submitted for publication.  
+            <p>Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan</p>
+            <p><i>IEEE Robotics and Automation Letters (RAL)</i>, Manuscript submitted for publication.</p>
             <div class="publication-links">
                 <a href="https://arxiv.org/pdf/2412.00259">PDF</a>
             </div>
@@ -128,8 +137,8 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
         <img src="images/icac.png" alt="Digital Twin Grasping">
         <div class="publication-content">
             <p class="publication-title">"A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin"</p>
-            <b>Tianyi Xiang</b>, Borui Li, Quan Zhang, March Leach, Enggee Lim  
-            <i>29th International Conference on Automation and Computing (ICAC 2024)</i>.  
+            <p><b>Tianyi Xiang</b>, Borui Li, Quan Zhang, March Leach, Enggee Lim</p>
+            <p><i>29th International Conference on Automation and Computing (ICAC 2024)</i>.</p>
             <div class="publication-links">
                 <a href="https://arxiv.org/pdf/2410.14928">PDF</a>
             </div>
@@ -140,8 +149,8 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
         <img src="images/case.png" alt="Digital Twin Framework">
         <div class="publication-content">
             <p class="publication-title">"Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing"</p>
-            <b>Tianyi Xiang</b>, Borui Li, Xiaonan Pan, Quan Zhang  
-            <i>20th International Conference on Automation Science and Engineering (CASE 2024)</i>.  
+            <p><b>Tianyi Xiang</b>, Borui Li, Xiaonan Pan, Quan Zhang</p>
+            <p><i>20th International Conference on Automation Science and Engineering (CASE 2024)</i>.</p>
             <div class="publication-links">
                 <a href="https://arxiv.org/pdf/2410.14934">PDF</a>
                 <a href="https://www.youtube.com/watch?time_continue=1&v=f_BEMbMvFso">Video</a>
@@ -153,18 +162,14 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
         <img src="images/soft_electronics.png" alt="High Performance Ceramics">
         <div class="publication-content">
             <p class="publication-title">"High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring"</p>
-            B. Xie, Y. Xie, Y. Ma, N. Luo, <b>Tianyi Xiang</b>, et al.  
-            <i>ACS Applied Materials & Interfaces</i>, Manuscript submitted for publication (2024).  
+            <p>B. Xie, Y. Xie, Y. Ma, N. Luo, <b>Tianyi Xiang</b>, et al.</p>
+            <p><i>ACS Applied Materials & Interfaces</i>, Manuscript submitted for publication (2024).</p>
         </div>
     </div>
 </div>
 
 </body>
 </html>
-
-
-
-
 
 
 
