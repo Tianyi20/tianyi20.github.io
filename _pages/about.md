@@ -83,7 +83,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
             gap: 15px;
         }
         .publication-item img {
-            width: 150px;
+            width: 250px;
             height: auto;
             border-radius: 4px;
         }
