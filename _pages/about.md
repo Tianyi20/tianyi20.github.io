@@ -113,7 +113,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
 <h1>Publications</h1>
 <div class="publications-section">
     <div class="publication-item">
-        <img src="images/real_to_sim.png" alt="Real-to-Sim">
+        <img src="images/RAL.png" alt="Real-to-Sim">
         <div class="publication-content">
             <p class="publication-title">"Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
             Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan  
@@ -125,7 +125,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
     </div>
 
     <div class="publication-item">
-        <img src="images/digital_twin_grasping.png" alt="Digital Twin Grasping">
+        <img src="images/icac.png" alt="Digital Twin Grasping">
         <div class="publication-content">
             <p class="publication-title">"A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin"</p>
             <b>Tianyi Xiang</b>, Borui Li, Quan Zhang, March Leach, Enggee Lim  
@@ -137,7 +137,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
     </div>
 
     <div class="publication-item">
-        <img src="images/digital_twin_framework.png" alt="Digital Twin Framework">
+        <img src="images/case.png" alt="Digital Twin Framework">
         <div class="publication-content">
             <p class="publication-title">"Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing"</p>
             <b>Tianyi Xiang</b>, Borui Li, Xiaonan Pan, Quan Zhang  
@@ -150,7 +150,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
     </div>
 
     <div class="publication-item">
-        <img src="images/high_performance_ceramics.png" alt="High Performance Ceramics">
+        <img src="images/soft_electronics.png" alt="High Performance Ceramics">
         <div class="publication-content">
             <p class="publication-title">"High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring"</p>
             B. Xie, Y. Xie, Y. Ma, N. Luo, <b>Tianyi Xiang</b>, et al.  
