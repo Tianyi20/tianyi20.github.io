@@ -60,9 +60,120 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
 
 
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .publications-section {
+            margin: 20px 0;
+        }
+        .publication-item {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 20px;
+            gap: 15px;
+        }
+        .publication-item img {
+            width: 150px;
+            height: auto;
+            border-radius: 4px;
+        }
+        .publication-content {
+            flex: 1;
+        }
+        .publication-title {
+            font-weight: bold;
+            font-size: 1.1em;
+            margin: 0 0 5px;
+        }
+        .publication-links {
+            margin-top: 5px;
+        }
+        .publication-links a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: blue;
+        }
+        .publication-links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Publications</h1>
+<div class="publications-section">
+    <div class="publication-item">
+        <img src="images/real_to_sim.png" alt="Real-to-Sim">
+        <div class="publication-content">
+            <p class="publication-title">"Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
+            Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan  
+            <i>IEEE Robotics and Automation Letters (RAL)</i>, Manuscript submitted for publication.  
+            <div class="publication-links">
+                <a href="https://arxiv.org/pdf/2412.00259">PDF</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="publication-item">
+        <img src="images/digital_twin_grasping.png" alt="Digital Twin Grasping">
+        <div class="publication-content">
+            <p class="publication-title">"A Novel Approach to Grasping Control of Soft Robotic Grippers based on Digital Twin"</p>
+            <b>Tianyi Xiang</b>, Borui Li, Quan Zhang, March Leach, Enggee Lim  
+            <i>29th International Conference on Automation and Computing (ICAC 2024)</i>.  
+            <div class="publication-links">
+                <a href="https://arxiv.org/pdf/2410.14928">PDF</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="publication-item">
+        <img src="images/digital_twin_framework.png" alt="Digital Twin Framework">
+        <div class="publication-content">
+            <p class="publication-title">"Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing"</p>
+            <b>Tianyi Xiang</b>, Borui Li, Xiaonan Pan, Quan Zhang  
+            <i>20th International Conference on Automation Science and Engineering (CASE 2024)</i>.  
+            <div class="publication-links">
+                <a href="https://arxiv.org/pdf/2410.14934">PDF</a>
+                <a href="https://www.youtube.com/watch?time_continue=1&v=f_BEMbMvFso">Video</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="publication-item">
+        <img src="images/high_performance_ceramics.png" alt="High Performance Ceramics">
+        <div class="publication-content">
+            <p class="publication-title">"High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring"</p>
+            B. Xie, Y. Xie, Y. Ma, N. Luo, <b>Tianyi Xiang</b>, et al.  
+            <i>ACS Applied Materials & Interfaces</i>, Manuscript submitted for publication (2024).  
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
 # Projects Video & Pictures
 
 ### [Real-to-Sim via End-to-End Differentiable Simulation and Rendering](https://arxiv.org/pdf/2412.00259)
+[Paper](https://arxiv.org/pdf/2412.00259)  
+
 ![screenshot](https://github.com/user-attachments/assets/2dbceb80-58fd-42cd-bf19-18fcf3704acc)
 
 
