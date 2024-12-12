@@ -58,7 +58,6 @@ IEEE Robotics and Automation Letters (RAL), Manuscript submitted for publication
 Xie, B., Xie, Y., Ma, Y., Luo, N., **Tianyi Xiang**, et al.  
 ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,16 +99,19 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
             margin: 0 0 10px;
         }
         .publication-links {
-            margin-top: 5px;
+            margin-top: 10px;
+            display: flex;
+            gap: 10px;
         }
         .publication-links a {
-            margin-right: 10px;
             text-decoration: none;
-            color: #007BFF; /* 蓝色链接 */
-            font-size: 0.9em;
+            display: inline-block;
+            width: 32px;
+            height: 32px;
         }
-        .publication-links a:hover {
-            text-decoration: underline;
+        .publication-links a img {
+            width: 100%;
+            height: 100%;
         }
         .publication-content p {
             font-size: 0.9em; /* 更小字体 */
@@ -128,7 +130,9 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
             <p>Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan</p>
             <p><i>IEEE Robotics and Automation Letters (RAL)</i>, Manuscript submitted for publication.</p>
             <div class="publication-links">
-                <a href="https://arxiv.org/pdf/2412.00259">PDF</a>
+                <a href="https://arxiv.org/pdf/2412.00259" title="View PDF">
+                    <img src="images/pdf_icon.png" alt="PDF Icon">
+                </a>
             </div>
         </div>
     </div>
@@ -140,7 +144,9 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
             <p><b>Tianyi Xiang</b>, Borui Li, Quan Zhang, March Leach, Enggee Lim</p>
             <p><i>29th International Conference on Automation and Computing (ICAC 2024)</i>.</p>
             <div class="publication-links">
-                <a href="https://arxiv.org/pdf/2410.14928">PDF</a>
+                <a href="https://arxiv.org/pdf/2410.14928" title="View PDF">
+                    <img src="images/pdf_icon.png" alt="PDF Icon">
+                </a>
             </div>
         </div>
     </div>
@@ -152,8 +158,12 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
             <p><b>Tianyi Xiang</b>, Borui Li, Xiaonan Pan, Quan Zhang</p>
             <p><i>20th International Conference on Automation Science and Engineering (CASE 2024)</i>.</p>
             <div class="publication-links">
-                <a href="https://arxiv.org/pdf/2410.14934">PDF</a>
-                <a href="https://www.youtube.com/watch?time_continue=1&v=f_BEMbMvFso">Video</a>
+                <a href="https://arxiv.org/pdf/2410.14934" title="View PDF">
+                    <img src="images/pdf_icon.png" alt="PDF Icon">
+                </a>
+                <a href="https://www.youtube.com/watch?time_continue=1&v=f_BEMbMvFso" title="Watch Video">
+                    <img src="images/youtube_icon.png" alt="YouTube Icon">
+                </a>
             </div>
         </div>
     </div>
@@ -164,6 +174,11 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
             <p class="publication-title">"High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring"</p>
             <p>B. Xie, Y. Xie, Y. Ma, N. Luo, <b>Tianyi Xiang</b>, et al.</p>
             <p><i>ACS Applied Materials & Interfaces</i>, Manuscript submitted for publication (2024).</p>
+            <div class="publication-links">
+                <a href="https://arxiv.org/pdf/2410.14928" title="View PDF">
+                    <img src="images/pdf_icon.png" alt="PDF Icon">
+                </a>
+            </div>
         </div>
     </div>
 </div>
