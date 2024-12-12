@@ -23,8 +23,8 @@ main:
   - title: "Education"
     url: /cv/
     
-  - title: "Resume"
-    url: /assets/CV_Tianyi_Xiang_Yale.pdf
+  # - title: "Resume"
+  #   url: /assets/CV_Tianyi_Xiang_Yale.pdf
     
   - title: "Personal Statement"
     url: /sop/
