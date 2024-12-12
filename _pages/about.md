@@ -50,7 +50,7 @@ IEEE Robotics and Automation Letters (RAL), Manuscript submitted for publication
 [Paper](https://arxiv.org/pdf/2410.14928)
 
 [3] **"Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing"**  
-**Tianyi Xiang**, Borui Li, Quan Zhang                             
+**Tianyi Xiang**, Borui Li, Xiaonan Pan, Quan Zhang                             
 20th International Conference on Automation Science and Engineering (CASE 2024)       
 [Paper](https://arxiv.org/pdf/2410.14934); [Video](https://www.youtube.com/watch?time_continue=1&v=f_BEMbMvFso&embeds_referring_euri=https%3A%2F%2Ftianyi20.github.io%2F&source_ve_path=Mjg2NjY)
 
