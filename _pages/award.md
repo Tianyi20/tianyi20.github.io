@@ -17,7 +17,7 @@ Welcome to my awards archive! Here you'll find a showcase of my accomplishments,
 ## 🏆 Best Performance Overall Award  
 **Event:**  Best Performance Overall Award for Rank 1 student throughout undergraduate
 **Description:** Recognized for being No.1 academic performance in my major throughout my undergraduate life!
-<img src="../images/Best_performance_Overall.png" alt="Best Performance Overall Award" width="500">
+<img src="../images/best_student.png" alt="Best Performance Overall Award" width="500">
 
 ---
 
