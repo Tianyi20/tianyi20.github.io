@@ -26,8 +26,11 @@ main:
   - title: "Resume"
     url: /assets/CV_Tianyi_Xiang_Yale.pdf
     
-  - title: "My Personal Statement"
+  - title: "Personal Statement"
     url: /sop/
+
+  - title: "Award"
+    url: /award/
     
   # - title: "Guide"
   #   url: /markdown/
