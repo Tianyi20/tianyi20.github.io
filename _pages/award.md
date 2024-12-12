@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /award
   - /assets/Best_performance_Overall.pdf
-  - assets/Best_performance_Overall.pdf
 ---
 
 # Awards and Achievements
