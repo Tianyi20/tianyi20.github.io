@@ -86,7 +86,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
             gap: 20px;
         }
         .publication-item img {
-            width: 300px; /* 更大图片 */
+            width: 350px; /* 更大图片 */
             height: auto;
             border-radius: 6px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影 */
@@ -159,7 +159,7 @@ ACS Applied Materials & Interfaces, Manuscript submitted for publication (2024)
     </div>
 
     <div class="publication-item">
-        <img src="images/soft_electronics.png" alt="High Performance Ceramics">
+        <img src="images/Soft_electronics.png" alt="High Performance Ceramics">
         <div class="publication-content">
             <p class="publication-title">"High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring"</p>
             <p>B. Xie, Y. Xie, Y. Ma, N. Luo, <b>Tianyi Xiang</b>, et al.</p>
