@@ -21,11 +21,11 @@ In the short term, I always consider how to bring a true agent into household?! 
 
 To achieve this goal, I have divided it into **four key areas**, each benefiting from my past experiences:
 
-* (A) **Perception** – Category level Object Pose & Geometry & Mesh Estimation in *partially uncertain environment*, with Large Vision Modal (LVM) to enable reasoning.
+* (A) **Perception** – Pose & Geometry & Mesh Estimation in *partially uncertain environment*, with Large Vision Modal (LVM) to enable reasoning.
 
-* (B) **Large Language Modal** – perform as robot's [brain]. Feed all stream coming from perception, task planner, achieving replanning in loop.  
+* (B) **Large Language Modal** – Perform as robot's [brain]. Feed all stream coming from perception, task planner, achieving replanning in loop.  
 
-* (C) **Basic Dyanmics** - general sampling based motion planning, with kinodynamics, deterity manipulation for contact rich operation.
+* (C) **Basic Dyanmics** - General sampling based motion planning, with kinodynamics, deterity manipulation for contact rich operation.
 
 * (D) **Multimodel-Sensor Perception** - Visual sensor, along with tactile sensor such as TENG, Soft electronic, Visual tactile sensor.
 
