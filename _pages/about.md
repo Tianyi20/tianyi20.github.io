@@ -12,20 +12,20 @@ redirect_from:
 
 I'm a Robotics master student from [Yale University](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science), major in [mechanical engineering & material science](https://seas.yale.edu/faculty-research/research-areas/robotics-mechatronics-and-human-machine-interface). I like **Applied Motion Planning** and **Perception** with pragmatic robotic design!
 
-I wish my work can eventually enable people to intuitively control or work alongside robot manipulation platforms to perform critical tasks deemed unsuitable, undesirable, understaffed, or unsafe for people. I use interdisciplinary techniques across **robotics and computer science**, including **motion planning**,  **machine learning**, **visual-perception**, **Vision-language model**,**virtual reality**, **communication system** to formulate and validate solutions within problems in diverse fields.
+I wish my work can eventually enable people to intuitively control or work alongside robot manipulation platforms to perform critical tasks deemed unsuitable, undesirable, understaffed, or unsafe for people. 
 
-I always consider how to bring a true agent into household?! And I consider it as a dynamic system as follow.
+In the short term, I always consider how to bring a true agent into household?! And I consider it as a dynamic system as follow.
 
 ![project_proposal](https://github.com/user-attachments/assets/d75ae4d9-36e0-4c43-b28e-ddd71f274163)
 
 
 To achieve this goal, I have divided it into **four key areas**, each benefiting from my past experiences:
 
-* (A) **Perception** – Category level Object Pose & Geometry & Mesh Estimation, better with Large Vision Modal.
+* (A) **Perception** – Category level Object Pose & Geometry & Mesh Estimation in *partially uncertain environment*, with Large Vision Modal (LVM) to enable reasoning.
 
-* (B) **Vision Language Modal** – perform as robot's [brain]. Feed all stream coming from perception, task planner, achieving replanning in loop.  
+* (B) **Large Language Modal** – perform as robot's [brain]. Feed all stream coming from perception, task planner, achieving replanning in loop.  
 
-* (C) **Basic Dyanmics** - general sampling based motion planning, with kinodynamics, deterity manipulation in special case.
+* (C) **Basic Dyanmics** - general sampling based motion planning, with kinodynamics, deterity manipulation for contact rich operation.
 
 * (D) **Multimodel-Sensor Perception** - Visual sensor, along with tactile sensor such as TENG, Soft electronic, Visual tactile sensor.
 
