@@ -10,13 +10,14 @@ redirect_from:
 
 
 
-![image](https://github.com/user-attachments/assets/3367f37c-b3c6-46f1-919f-9854a97f9e75)
 
 # From the Moment I Conceptualized My First Robot
 
 From the moment I conceptualized my first robot, I have been captivated by a fundamental question: **What does it take to create a truly intelligent, human-like robotic agent?** Robotics, as a multidisciplinary field shown in Fig. 1, requires the seamless integration of diverse domains, including but not limited to dynamics, perception, multimodal interaction, task planning, and artificial intelligence (AI). Yet, among these, what domain holds the key to unlocking a breakthrough in intelligent robotics? This question has not only fueled my academic journey but also drives my research aspirations.
 
-![Figure 1: What it would take to create a truly intelligent robotic agent.](#)
+
+![Figure 1: What it would take to create a truly intelligent robotic agent.](https://github.com/user-attachments/assets/3367f37c-b3c6-46f1-919f-9854a97f9e75)
+
 
 ## Academic Journey and Research Aspirations
 
@@ -45,7 +46,7 @@ At the core of a low-level task controller within task planning is human-level d
 
 ## My short term future firection
 
-At short term, I believe robotic path lies in developing an End-to-End from perception to symbol framework that directly map raw sensory inputs, such as RGB-D image, to task and motion planning. But not simply training billions of parameters with VLA, Imitation learning, or reinforcement learning. Methods such as diffusion policy, behavior cloning, and reinforcement learning face significant challenges when addressing complex physical constraints such as contact modes and collisions [5]. Therefore, towards the basic limitation of robot, it is essential to develop an End-to-End perception system that directly map raw sensory inputs to symbolic predicates. Example could involve leveraging LVM, 3D reconstruction, and object estimation to infer object relationships (e.g., "object A is on object B"), states (e.g., "object A is clean"), and low-level task constraints (e.g., “Cup doesn’t spill water”).
+At short term, I believe robotic path lies in developing an **End-to-End from perception to symbol framework that directly map raw sensory inputs, such as RGB-D image, to task and motion planning**. But not simply training billions of parameters with VLA, Imitation learning, or reinforcement learning. Methods such as diffusion policy, behavior cloning, and reinforcement learning face significant challenges when addressing complex physical constraints such as contact modes and collisions [5]. Therefore, towards the basic limitation of robot, it is essential to develop an End-to-End perception system that directly map raw sensory inputs to symbolic predicates. Example could involve leveraging LVM, 3D reconstruction, and object estimation to infer object relationships (e.g., "object A is on object B"), states (e.g., "object A is clean"), and low-level task constraints (e.g., “Cup doesn’t spill water”).
 
 
 
