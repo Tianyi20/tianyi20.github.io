@@ -43,6 +43,10 @@ A robust task planner is essential for robots operating under uncertainty and lo
 At the core of a low-level task controller within task planning is human-level dexterity in robotic manipulation. It should be generalized to execute different fine-grained tasks while considering complex physical constraints and contact modes.
 
 
+## My short term future firection
+
+At short term, I believe robotic path lies in developing an End-to-End from perception to symbol framework that directly map raw sensory inputs, such as RGB-D image, to task and motion planning. But not simply training billions of parameters with VLA, Imitation learning, or reinforcement learning. Methods such as diffusion policy, behavior cloning, and reinforcement learning face significant challenges when addressing complex physical constraints such as contact modes and collisions [5]. Therefore, towards the basic limitation of robot, it is essential to develop an End-to-End perception system that directly map raw sensory inputs to symbolic predicates. Example could involve leveraging LVM, 3D reconstruction, and object estimation to infer object relationships (e.g., "object A is on object B"), states (e.g., "object A is clean"), and low-level task constraints (e.g., “Cup doesn’t spill water”).
+
 
 
 [1] T. Xiang, B. Li, X. Pan and Q. Zhang, "Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing," 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE). Available: https://ieeexplore.ieee.org/abstract/document/10711459
@@ -56,4 +60,4 @@ At the core of a low-level task controller within task planning is human-level d
 
 [4] Y. Zhu, T. Xiang, A. Dollar, and Z. Pan, “Real-to-Sim via End-to-End Differentiable Simulation and Rendering”. Robotics and Automation Letters (RAL), Manuscript submitted for publication. Available: https://arxiv.org/pdf/2412.00259
 
-
+[5] N. Rajaraman, L. F. Yang, J. Jiao, and K. Ramachandran, “Toward the Fundamental Limits of Imitation Learning,” Sep. 13, 2020, arXiv: arXiv:2009.05990. doi: 10.48550/arXiv.2009.05990. Available: https://arxiv.org/pdf/2009.05990
