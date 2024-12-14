@@ -176,6 +176,9 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang.pdf)
 
 
 ### Liquid Manipulation: Category-level pose & dimension detector with pouring action optimizer
+
+![framework](https://github.com/user-attachments/assets/868e1753-9663-4b4b-a5de-f5a4f0b05e98)
+
 {% include youtube.html id="oPvfIooH5HU" %}  
 
 
