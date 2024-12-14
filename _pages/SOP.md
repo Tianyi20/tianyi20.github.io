@@ -49,7 +49,7 @@ At the core of a low-level task controller within task planning is human-level d
 At short term, I believe robotic path lies in developing an **End-to-End from perception to symbol framework that directly map raw sensory inputs, such as RGB-D image, to task and motion planning**. But not simply training billions of parameters with VLA, Imitation learning, or reinforcement learning. Methods such as diffusion policy, behavior cloning, and reinforcement learning face significant challenges when addressing complex physical constraints such as contact modes and collisions [5]. Therefore, towards the basic limitation of robot, it is essential to develop an End-to-End perception system that directly map raw sensory inputs to symbolic predicates. Example could involve leveraging LVM, 3D reconstruction, and object estimation to infer object relationships (e.g., "object A is on object B"), states (e.g., "object A is clean"), and low-level task constraints (e.g., “Cup doesn’t spill water”).
 
 
-
+## Reference
 [1] T. Xiang, B. Li, X. Pan and Q. Zhang, "Development of a Simple and Novel Digital Twin Framework for Industrial Robots in Intelligent Robotics Manufacturing," 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE). Available: https://ieeexplore.ieee.org/abstract/document/10711459
 
 
