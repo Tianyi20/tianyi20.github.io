@@ -25,7 +25,7 @@ To achieve this goal, I have divided it into **four key areas**, each benefiting
 
 * (C) **Basic Dyanmics** - General sampling based motion planning, with kinodynamics, deterity manipulation for contact rich operation.
 
-* (D) **Multimodel-Sensor Perception** - Visual sensor, along with tactile sensor such as TENG, Soft electronic, Visual tactile sensor.
+* (D) **Multimodel Perception** - RGB-D camera, tactile sensor (e.g. TENG, Soft electronic, Visual tactile sensor), and Lidar.
 
 
 **Contact**: Tianyi.Xiang@yale.edu
