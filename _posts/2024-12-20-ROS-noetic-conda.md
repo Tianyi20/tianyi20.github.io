@@ -7,7 +7,7 @@ tags:
   - Conda
 ---
 
-ROS 在编译的时候应该默认的是系统自带的python 环境。
+ROS catkin_make 时候需要选定python 环境， 如果我们不 explicitly define那么在编译的时候应该默认的是系统自带的python 环境,
 
 ROS 的依赖应该是这样的，ROS 用的编译的是 环境中的package. python 算ROS编译时候 packages 依赖里面的一个，ROS编译默认使用系统自带的python环境。
 
