@@ -12,18 +12,18 @@ redirect_from:
 
 I'm a Robotics master student from [Yale University](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science), major in [mechanical engineering & material science](https://seas.yale.edu/faculty-research/research-areas/robotics-mechatronics-and-human-machine-interface). I like **Applied Motion Planning** and **Perception** with pragmatic robotic design!
 
-I wish my work can eventually enable people to intuitively control or work alongside robot manipulation platforms to perform critical tasks deemed unsuitable, undesirable, understaffed, or unsafe for people. In the short term, I hope to bring a true agent into household. To achieve this, Robotic has to structured by multidisciplinary fields, while performe as a dynamic system shown as Fig. 1.
+I wish my work can eventually enable people to intuitively control or work alongside robot manipulation platforms to perform critical tasks deemed unsuitable, undesirable, understaffed, or unsafe for people.  In the short term, my goal is to bring the robotic agent into households. Achieving this vision requires robotics to be built on multidisciplinary fields, functioning as a dynamic system, as illustrated in Fig. 1.
 
 ![project_proposal](https://github.com/user-attachments/assets/d75ae4d9-36e0-4c43-b28e-ddd71f274163)
 
 
 To achieve this goal, I have divided it into **four key areas**, each benefiting from my past experiences:
 
-* (A) **Perception** – Pose & Geometry & Mesh Estimation in *partially uncertain environment*, with Large Vision Modal (LVM) to enable reasoning.
+* (A) **Perception** – Pose & Geometry & Mesh Estimation in *partially uncertain environment*, especially dealing with *out of distribution*.
 
-* (B) **Large Language Modal** – Perform as robot's [brain]. Feed all stream coming from perception, task planner, achieving replanning in loop.  
+* (B) **Large Language Modal** – High-level planner. 
 
-* (C) **Basic Dyanmics** - General sampling based motion planning, with kinodynamics, deterity manipulation for contact rich operation.
+* (C) **Basic Dyanmics** - Deterity manipulation for contact rich operation.
 
 * (D) **Multimodel Perception** - RGB-D camera, tactile sensor (e.g. TENG, Soft electronic, Visual tactile sensor), and Lidar.
 
