@@ -32,7 +32,7 @@ To achieve this goal, I have divided it into **four key areas**, each benefiting
 
 
 # My Resume
-You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang_Yale (10).pdf)
+You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang_Yale.pdf)
 
 
 
