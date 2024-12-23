@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Profile of Tianyi Xiang"
+title: "🍀 About me 🍀"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# 🍀 About me 🍀
 
 I'm a Robotics master student from [Yale University](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science), major in [mechanical engineering & material science](https://seas.yale.edu/faculty-research/research-areas/robotics-mechatronics-and-human-machine-interface). I like **Applied Motion Planning** and **Perception** with pragmatic robotic design!
 
