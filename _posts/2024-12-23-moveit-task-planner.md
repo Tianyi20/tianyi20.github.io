@@ -1,6 +1,6 @@
 ---
 title: 'Try ROS moveit task planner'
-date: 2024-11-6
+date: 2024-12-23
 permalink: /posts/2024/12/blog-moveit-task-planner/
 tags:
   - moveit task planner
