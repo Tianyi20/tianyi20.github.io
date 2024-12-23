@@ -54,3 +54,12 @@ Knowledge & Skills
 | 2022     | *ABB Smart Innovation Competition: First prize (Rank 3/275)*                                                   | ABB, B&R Industrial Automation                 |
 | 2022     | *University Academic Excellence Award (Rank 1/64)*                                                             | Xi’an Jiaotong-Liverpool University            |
 | 2022     | *University Summer Undergraduate Research Fellow*                                                              | Xi’an Jiaotong-Liverpool University            |
+
+Robots I Worked With
+======
+
+| **UR5e Robot**                         | **Franka Panda**                       | **ABB IRB120**                        | **DIY Mars Rover**                   |
+|----------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|
+| ![image](https://github.com/user-attachments/assets/755d0adb-7f41-4a1a-b62d-cca6644c2ae9) | ![image](https://github.com/user-attachments/assets/a8108c7f-ba9d-4280-8660-b9e0189245e0)  | ![image](https://github.com/user-attachments/assets/a1bfed98-77b3-491d-a2ff-38e352796364) | <img src="https://github.com/user-attachments/assets/deb5e9a8-7745-4bbc-a0dc-1085af072746" width="500"/> |
+
+
