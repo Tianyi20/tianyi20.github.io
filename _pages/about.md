@@ -188,7 +188,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang_Yale.pdf)
 
 
 ### [Vision-learning based Soft Actuator Grasping Control within Digital Twin](https://arxiv.org/pdf/2410.14934) 
-![OpenCV based Soft Actuator Grasping Control in Unity3D](images/soft_gripper.png)
+![OpenCV based Soft Actuator Grasping Control in Unity3D](images/icac.png)
 
 
 
