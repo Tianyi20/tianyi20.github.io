@@ -39,10 +39,12 @@ tags:
 
 
 ### **旋转矩阵推导**
-假设欧拉角为 \((\theta_z, \theta_y, \theta_x)\)，旋转矩阵 \(R\) 是按顺序乘积的结果：
-\[
+假设欧拉角为 $(\theta_z, \theta_y, \theta_x)$，旋转矩阵 \(R\) 是按顺序乘积的结果：
+
+$$
 R = R_x(\theta_x) \cdot R_y(\theta_y) \cdot R_z(\theta_z)
-\]
+$$
+
 #### 矩阵是从右边往左乘的，所以这里是先Z，再Y，最后X
 
 
