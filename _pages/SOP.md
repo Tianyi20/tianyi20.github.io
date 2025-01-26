@@ -40,9 +40,12 @@ Building on my previous experiences in motion planning and perception, I now bel
 ### (1) Task Planning with Perception
 A robust task planner is essential for robots operating under uncertainty and long-horizon planning. A perception method is required to work alongside the planner, inferring “predicates” and “states” information and feeding this into the task planner and low-level motion planner.
 
-### (2) Dexterity Manipulation
+### (2) Dexterity Manipulation (Contact Rich Manipulation)
 At the core of a low-level task controller within task planning is human-level dexterity in robotic manipulation. It should be generalized to execute different fine-grained tasks while considering complex physical constraints and contact modes.
 
+## Current research interest on **differentiable simulator**
+
+My current research interest lies in differentiable simulation to enable contact rich manipulation. This emerging area holds immense potential for addressing key challenges in robotics, including: (1) deformable object manipulation; (2) physical properties extraction, etc. In our latest work [4] (RA-L 2024), our differentiable simulator can infer implicit physical properties (e.g. mass, inertia, friction) that is hard to extract by conventional neural networks [6][7][8][9]. Notably, our innovation design enables end-to-end estimation of an object's shape, physical parameters, and mesh without any prior knowledge. 
 
 ## My short term future firection
 
@@ -62,3 +65,12 @@ At short term, I believe robotic path lies in developing an **End-to-End from pe
 [4] Y. Zhu, T. Xiang, A. Dollar, and Z. Pan, “Real-to-Sim via End-to-End Differentiable Simulation and Rendering”. Robotics and Automation Letters (RAL), Manuscript submitted for publication. Available: https://arxiv.org/pdf/2412.00259
 
 [5] N. Rajaraman, L. F. Yang, J. Jiao, and K. Ramachandran, “Toward the Fundamental Limits of Imitation Learning,” Sep. 13, 2020, arXiv: arXiv:2009.05990. doi: 10.48550/arXiv.2009.05990. Available: https://arxiv.org/pdf/2009.05990
+
+[6] B. Wen et al., “BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects,” Mar. 24, 2023, arXiv: arXiv:2303.14158. doi: 10.48550/arXiv.2303.14158.
+
+[7] “[2312.08344] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects.” Accessed: Jan. 08, 2025. [Online]. Available: https://arxiv.org/abs/2312.08344
+
+[8] J. Tremblay, T. To, B. Sundaralingam, Y. Xiang, D. Fox, and S. Birchfield, “Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects,” Sep. 27, 2018, arXiv: arXiv:1809.10790. doi: 10.48550/arXiv.1809.10790.
+
+[9] Y. Lin, J. Tremblay, S. Tyree, P. A. Vela, and S. Birchfield, “Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image,” May 12, 2022, arXiv: arXiv:2109.06161. doi: 10.48550/arXiv.2109.06161.
+
