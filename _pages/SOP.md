@@ -43,9 +43,15 @@ A robust task planner is essential for robots operating under uncertainty and lo
 ### (2) Dexterity Manipulation (Contact Rich Manipulation)
 At the core of a low-level task controller within task planning is human-level dexterity in robotic manipulation. It should be generalized to execute different fine-grained tasks while considering complex physical constraints and contact modes.
 
+To fulfill my belief of future robot, I find differentiable simulator is a potential solution for robotics problems.
+
 ## Current research interest on **differentiable simulator**
 
-My current research interest lies in differentiable simulation to enable contact rich manipulation. This emerging area holds immense potential for addressing key challenges in robotics, including: (1) deformable object manipulation; (2) physical properties extraction, etc. In our latest work [4] (RA-L 2024), our differentiable simulator can infer implicit physical properties (e.g. mass, inertia, friction) that is hard to extract by conventional neural networks [6][7][8][9]. Notably, our innovation design enables end-to-end estimation of an object's shape, physical parameters, and mesh without any prior knowledge. 
+My current research interest lies in differentiable simulation to enable contact rich manipulation. This emerging area holds immense potential for addressing key challenges in robotics, including: (1) deformable object manipulation; (2) physical properties extraction, etc. In our latest work  [“Real-to-Sim via End-to-End Differentiable Simulation and Rendering”](https://arxiv.org/pdf/2412.00259) [4] **(RA-L 2024)**, our differentiable simulator can infer implicit physical properties (e.g. mass, inertia, friction) that is hard to extract by conventional neural networks [6][7][8][9]. Notably, our innovation design enables end-to-end estimation of an object's shape, physical parameters, and mesh without any prior knowledge. 
+
+Currently, my project focus on addressing under-segmentation problem in masks generation through interactive actions. While existing approaches like [10] [11] [12] have explored how interactive action can benefit segmentation, I believe differentiable simulator can further refine the segmentation by directly leveraging physical consistency and dynamic interactions. 
+
+
 
 ## My short term future firection
 
@@ -73,4 +79,12 @@ At short term, I believe robotic path lies in developing an **End-to-End from pe
 [8] J. Tremblay, T. To, B. Sundaralingam, Y. Xiang, D. Fox, and S. Birchfield, “Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects,” Sep. 27, 2018, arXiv: arXiv:1809.10790. doi: 10.48550/arXiv.1809.10790.
 
 [9] Y. Lin, J. Tremblay, S. Tyree, P. A. Vela, and S. Birchfield, “Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image,” May 12, 2022, arXiv: arXiv:2109.06161. doi: 10.48550/arXiv.2109.06161.
+
+
+[10] J. Kenney, T. Buckley, and O. Brock, “Interactive segmentation for manipulation in unstructured environments,” in 2009 IEEE International Conference on Robotics and Automation, Kobe: IEEE, May 2009, pp. 1377–1382. doi: 10.1109/ROBOT.2009.5152393.
+
+[11] H. H. Qian et al., “RISeg: Robot Interactive Object Segmentation via Body Frame-Invariant Features,” Mar. 04, 2024, arXiv: arXiv:2403.01731. doi: 10.48550/arXiv.2403.01731.
+
+[12] X. Fang, L. P. Kaelbling, and T. Lozano-Pérez, “Embodied Uncertainty-Aware Object Segmentation,” Aug. 08, 2024, arXiv: arXiv:2408.04760. doi: 10.48550/arXiv.2408.04760.
+
 
