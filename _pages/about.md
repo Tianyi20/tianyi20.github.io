@@ -102,7 +102,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang_Yale.pdf)
         <div class="publication-content">
             <p class="publication-title">"Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
             <p>Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan</p>
-            <p><i>IEEE Robotics and Automation Letters (RAL)</i>, Manuscript submitted for publication.</p>
+            <p><i>IEEE Robotics and Automation Letters (RA-L 2024)</i>, Manuscript submitted for publication.</p>
             <div class="publication-links">
                 <a href="https://arxiv.org/pdf/2412.00259" title="View PDF">
                     <img src="images/pdf_icon.png" alt="PDF Icon">
