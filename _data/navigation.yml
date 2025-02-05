@@ -17,17 +17,17 @@ main:
   - title: "About"
     url: /about/
         
+  # - title: "Resume"
+  #   url: /assets/CV_Tianyi_Xiang_Yale.pdf
+    
+  - title: "Research Statement"
+    url: /assets/quick_portofolio_research.pdf
+  
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "Education"
     url: /cv/
-    
-  # - title: "Resume"
-  #   url: /assets/CV_Tianyi_Xiang_Yale.pdf
-    
-  - title: "Personal Statement"
-    url: /sop/
 
   - title: "Award"
     url: /award/
