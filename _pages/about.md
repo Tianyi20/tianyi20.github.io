@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-I'm a Robotics master student from [Yale University](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science), major in [mechanical engineering & material science](https://seas.yale.edu/faculty-research/research-areas/robotics-mechatronics-and-human-machine-interface). My research interest is physics-informed machine learning in robotics, especially differentiable simulator, for contact rich manipulation.
+I'm a Robotics master student from [Yale University](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science), major in [mechanical engineering & material science](https://seas.yale.edu/faculty-research/research-areas/robotics-mechatronics-and-human-machine-interface). My research interest is **physics-informed machine learning in robotics**, especially **differentiable simulator**, for contact rich manipulation.
 
-I wish my work can eventually enable people to intuitively control or work alongside robot manipulation platforms to perform critical tasks deemed unsuitable, undesirable, understaffed, or unsafe for people.  In the short term, my goal is to bring the robotic agent into households.
+I have divided my researches into **four key areas**:
 
-To achieve this goal, I have divided it into **four key areas**:
+Please feel free to see [my research statement](../assets/quick_portofolio_research.pdf) for more details, including **future research plans**.
 
 * (A) **Perception** - Infer *uncertain environment*.
 
