@@ -20,7 +20,7 @@ I have divided my researches into **four key areas**:
 
 * (D) **Mechanics Design** - Co-Design Mechanism with Sensing, Perception, and Control.
 
-Feel free to see **[my research statement]**(../assets/quick_portofolio_research.pdf) for more details, including **future research plans**.
+Feel free to see **[my research statement](../assets/quick_portofolio_research.pdf)** for more details, including **future research plans**.
 
 
 **Contact**: Tianyi.Xiang@yale.edu
