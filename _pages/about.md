@@ -12,8 +12,6 @@ I'm a Robotics master student from [Yale University](https://seas.yale.edu/depar
 
 I have divided my researches into **four key areas**:
 
-Please feel free to see [my research statement](../assets/quick_portofolio_research.pdf) for more details, including **future research plans**.
-
 * (A) **Perception** - Infer *uncertain environment*.
 
 * (B) **Reasoning & Task planning** – High-level planner. 
@@ -21,6 +19,9 @@ Please feel free to see [my research statement](../assets/quick_portofolio_resea
 * (C) **Control** - Control for contact rich operation.
 
 * (D) **Mechanics Design** - Co-Design Mechanism with Sensing, Perception, and Control.
+
+Feel free to see **[my research statement]**(../assets/quick_portofolio_research.pdf) for more details, including **future research plans**.
+
 
 **Contact**: Tianyi.Xiang@yale.edu
 
