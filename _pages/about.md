@@ -162,6 +162,14 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang_Yale.pdf)
 
 # Projects Video & Pictures
 
+### A differentiable particle based simulator with gaussian splatting rendering
+Inversely constructed of paper: [Physically Embodied Gaussian Splatting: A Visually Learnt and Physically Grounded 3D Representation for Robotics](https://embodied-gaussians.github.io/)
+Github [Link: https://github.com/Tianyi20/pdb_demo](https://github.com/Tianyi20/pdb_demo)
+
+
+![image](https://github.com/user-attachments/assets/d5fc7a8f-0c65-4431-b64a-8451cc501909)
+
+
 ### [Real-to-Sim via End-to-End Differentiable Simulation and Rendering](https://arxiv.org/pdf/2412.00259)
 [Paper](https://arxiv.org/pdf/2412.00259)  
 
