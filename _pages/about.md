@@ -138,7 +138,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang_Yale.pdf)
             </div>
         </div>
     </div>
-
+</div> 
 
 </body>
 </html>
