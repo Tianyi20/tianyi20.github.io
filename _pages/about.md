@@ -139,20 +139,6 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang_Yale.pdf)
         </div>
     </div>
 
-    <div class="publication-item">
-        <img src="images/soft_electronic.png" alt="High Performance Ceramics">
-        <div class="publication-content">
-            <p class="publication-title">"High performance (Zn₀.₅Mg₀.₅)TiO₃ ceramics based composite films for powering multi-mode translation unit and human motion monitoring"</p>
-            <p>B. Xie, Y. Xie, Y. Ma, N. Luo, <b>Tianyi Xiang</b>, et al.</p>
-            <p><i>ACS Applied Materials & Interfaces</i>(2024).</p>
-            <div class="publication-links">
-                <a href="https://pubs.acs.org/doi/abs/10.1021/acsaelm.4c01648" title="View PDF">
-                    <img src="images/pdf_icon.png" alt="PDF Icon">
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
 
 </body>
 </html>
