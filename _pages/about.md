@@ -8,26 +8,13 @@ redirect_from:
 ---
 
 
-I'm a Robotics master student from [Yale University](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science), major in [mechanical engineering & material science](https://seas.yale.edu/faculty-research/research-areas/robotics-mechatronics-and-human-machine-interface). My research interest is **physics-informed machine learning in robotics**, especially **differentiable simulator**, for contact rich manipulation.
+I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically working with postdoc [Dr Yifan.Zhu](https://yifanzhu95.github.io/). My research interest is real-to-sim via physical knowledge in robotics, especially leveraging **differentiable simulator** for contact rich manipulation.
 
-I have divided my researches into **four key areas**:
 
-* (A) **Perception** - Infer *uncertain environment*.
-
-* (B) **Reasoning & Task planning** – High-level planner. 
-
-* (C) **Control** - Control for contact rich operation.
-
-* (D) **Mechanics Design** - Co-Design Mechanism with Sensing, Perception, and Control.
-
-Feel free to see **[my research statement](../assets/quick_portofolio_research.pdf)** for more details, including **future research plans**.
+<!-- Feel free to see **[my research statement](../assets/quick_portofolio_research.pdf)** for more details. -->
 
 
 **Contact**: Tianyi.Xiang@yale.edu
-
-
-# My Resume
-You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang_Yale.pdf)
 
 
 
@@ -99,7 +86,7 @@ You can find my CV here:[Tianyi's CV](../assets/CV_Tianyi_Xiang_Yale.pdf)
         <div class="publication-content">
             <p class="publication-title">"Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
             <p>Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan</p>
-            <p><i>IEEE Robotics and Automation Letters (RA-L 2024)</i>, Manuscript submitted for publication.</p>
+            <p><i>IEEE Robotics and Automation Letters (RA-L 2024)</i>.</p>
             <div class="publication-links">
                 <a href="https://arxiv.org/pdf/2412.00259" title="View PDF">
                     <img src="images/pdf_icon.png" alt="PDF Icon">
