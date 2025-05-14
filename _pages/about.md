@@ -92,7 +92,7 @@ I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), wh
                     <img src="images/pdf_icon.png" alt="PDF Icon">
                 </a>
                 <a href="https://tianyi20.github.io/rigid-world-model.github.io/" title="Paper Website">
-                    <img src="images/website_icon.png" alt="Website Icon">
+                    <img src="images/internet.png" alt="Website Icon">
                 </a>
             </div>
         </div>
