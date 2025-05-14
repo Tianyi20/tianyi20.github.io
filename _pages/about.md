@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically working with postdoc [Dr Yifan.Zhu](https://yifanzhu95.github.io/). My research interest is real-to-sim via physical knowledge in robotics, especially leveraging **differentiable simulator** for contact rich manipulation.
+I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically working with postdoc [Dr Yifan.Zhu](https://yifanzhu95.github.io/). My research interest is robotics real-to-sim with physics-informed knowledge, especially leveraging **differentiable simulator** for contact rich manipulation.
 
 
 <!-- Feel free to see **[my research statement](../assets/quick_portofolio_research.pdf)** for more details. -->
