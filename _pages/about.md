@@ -91,6 +91,9 @@ I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), wh
                 <a href="https://arxiv.org/pdf/2412.00259" title="View PDF">
                     <img src="images/pdf_icon.png" alt="PDF Icon">
                 </a>
+                <a href="https://tianyi20.github.io/rigid-world-model.github.io/" title="Paper Website">
+                    <img src="images/website_icon.png" alt="Website Icon">
+                </a>
             </div>
         </div>
     </div>
