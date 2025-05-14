@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically working with postdoc [Dr Yifan.Zhu](https://yifanzhu95.github.io/). My research interest is **robotics real-to-sim with physics-informed knowledge**, especially leveraging **differentiable simulator** for contact rich manipulation.
+I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically work with postdoc [Dr Yifan.Zhu](https://yifanzhu95.github.io/). My research interest is **robotics real-to-sim with physics-informed knowledge**, especially **differentiable simulator** for contact rich manipulation.
 
 
 <!-- Feel free to see **[my research statement](../assets/quick_portofolio_research.pdf)** for more details. -->
@@ -84,7 +84,7 @@ I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), wh
     <div class="publication-item">
         <img src="images/RAL.png" alt="Real-to-Sim">
         <div class="publication-content">
-            <p class="publication-title">"Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
+            <p class="publication-title">"One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
             <p>Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan</p>
             <p><i>IEEE Robotics and Automation Letters (RA-L 2024)</i>.</p>
             <div class="publication-links">
