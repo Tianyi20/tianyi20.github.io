@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically work with postdoc [Prof. Yifan.Zhu](https://yifanzhu95.github.io/) (now incoming assistant professor at the Computer Science department at the University of Illinois Chicago.). My research interest is **robotics real-to-sim with physics-informed knowledge**, especially **differentiable simulator** for contact rich manipulation.
+I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically work with [Prof. Yifan.Zhu](https://yifanzhu95.github.io/) (now incoming assistant professor at the Computer Science department at the University of Illinois Chicago.). My research interest is **robotics real-to-sim with physics-informed knowledge**, especially **differentiable simulator** for contact rich manipulation.
 
 
 <!-- Feel free to see **[my research statement](../assets/quick_portofolio_research.pdf)** for more details. -->
@@ -86,7 +86,7 @@ I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), wh
         <div class="publication-content">
             <p class="publication-title">"One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
             <p>Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan</p>
-            <p><i>IEEE Robotics and Automation Letters (RA-L 2024)</i>.</p>
+            <p><i>IEEE Robotics and Automation Letters (IEEE RA-L, 2025)</i>.</p>
             <div class="publication-links">
                 <a href="https://arxiv.org/pdf/2412.00259" title="View PDF">
                     <img src="images/pdf_icon.png" alt="PDF Icon">
