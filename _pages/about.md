@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically work with postdoc [Dr Yifan.Zhu](https://yifanzhu95.github.io/). My research interest is **robotics real-to-sim with physics-informed knowledge**, especially **differentiable simulator** for contact rich manipulation.
+I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically work with postdoc [Prof. Yifan.Zhu](https://yifanzhu95.github.io/) (now incoming assistant professor at the Computer Science department at the University of Illinois Chicago.). My research interest is **robotics real-to-sim with physics-informed knowledge**, especially **differentiable simulator** for contact rich manipulation.
 
 
 <!-- Feel free to see **[my research statement](../assets/quick_portofolio_research.pdf)** for more details. -->
 
 
-**Contact**: Tianyi.Xiang@yale.edu
+**Contact**: xiang7976@gmail.com
 
 
 
@@ -82,7 +82,7 @@ I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), wh
 <h1>Publications</h1>
 <div class="publications-section">
     <div class="publication-item">
-        <img src="images/RAL.png" alt="Real-to-Sim">
+        <img src="../images/spotlight.png" alt="Real-to-Sim">
         <div class="publication-content">
             <p class="publication-title">"One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
             <p>Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan</p>
@@ -93,6 +93,9 @@ I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), wh
                 </a>
                 <a href="https://tianyi20.github.io/rigid-world-model.github.io/" title="Paper Website">
                     <img src="images/internet.png" alt="Website Icon">
+                </a>
+                <a href="https://github.com/yifanzhu95/RigidWorldModel" title="Github Repo">
+                    <img src="../images/github_icon.png" alt="Github Icon">
                 </a>
             </div>
         </div>
