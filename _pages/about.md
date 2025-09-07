@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically work with [Prof. Yifan.Zhu](https://yifanzhu95.github.io/) (now incoming assistant professor at the Computer Science department at the University of Illinois Chicago.). My research interest is **robotics real-to-sim with physics-informed knowledge**, especially **differentiable simulator** for contact rich manipulation.
+I'm a Ph. D candidate  candidate in Robotics and Autonomous Systems at the Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/), where I am supervised by [Prof. Jun Ma](https://personal.hkust-gz.edu.cn/junma/index.html). Before HKUST, I was a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically work with [Prof. Yifan.Zhu](https://yifanzhu95.github.io/). My research interest lie in the how to leverage **physics-informed knowledge** in robotics manipulation, where typically simulation can be widely used.
+ 
 
 
 <!-- Feel free to see **[my research statement](../assets/quick_portofolio_research.pdf)** for more details. -->
@@ -140,6 +141,13 @@ I'm a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), wh
 
 
 # Projects Video & Pictures
+
+
+
+### An reproduction of pi0 VLM: Cloth folding 
+
+{% include youtube.html id="UNEmBqdkUqs" %}  
+
 
 ### A differentiable particle based simulator with gaussian splatting rendering
 
