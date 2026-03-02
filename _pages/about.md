@@ -83,6 +83,26 @@ I'm a Ph. D candidate  candidate in Robotics and Autonomous Systems at the Hong 
 <h1>Publications</h1>
 <div class="publications-section">
     <div class="publication-item">
+        <img src="../images/phy_recon.png" alt="Real-to-Sim">
+        <div class="publication-content">
+            <p class="publication-title">"Real-to-Sim for Highly Cluttered Environments via Physics-Consistent Inter-Object Reasoning"</p>
+            <p>Tianyi Xiang, <b>Jiahang Cao</b>, Sikai Guo, Guoyang Zhao, Andrew F. Luo,and Jun Ma </p>
+            <p><i>Submitted to IEEE Robotics and Automation Letters (IEEE RA-L, 2026)</i>.</p>
+            <div class="publication-links">
+                <a href="https://arxiv.org/html/2602.12633v1" title="View PDF">
+                    <img src="images/pdf_icon.png" alt="PDF Icon">
+                </a>
+                <a href="https://physics-constrained-real2sim.github.io/" title="Paper Website">
+                    <img src="images/internet.png" alt="Website Icon">
+                </a>
+                <a href="https://github.com/physics-constrained-Real2Sim/physics-constrained-Real2Sim" title="Github Repo">
+                    <img src="../images/github_icon.png" alt="Github Icon">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="publication-item">
         <img src="../images/spotlight.png" alt="Real-to-Sim">
         <div class="publication-content">
             <p class="publication-title">"One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
