@@ -86,7 +86,7 @@ I'm a Ph. D candidate  candidate in Robotics and Autonomous Systems at the Hong 
         <img src="../images/phy_recon.png" alt="Real-to-Sim">
         <div class="publication-content">
             <p class="publication-title">"Real-to-Sim for Highly Cluttered Environments via Physics-Consistent Inter-Object Reasoning"</p>
-            <p>Tianyi Xiang, <b>Jiahang Cao</b>, Sikai Guo, Guoyang Zhao, Andrew F. Luo,and Jun Ma </p>
+            <p><b>Tianyi Xiang</b>, Jiahang Cao, Sikai Guo, Guoyang Zhao, Andrew F. Luo,and Jun Ma </p>
             <p><i>Submitted to IEEE Robotics and Automation Letters (IEEE RA-L, 2026)</i>.</p>
             <div class="publication-links">
                 <a href="https://arxiv.org/html/2602.12633v1" title="View PDF">
