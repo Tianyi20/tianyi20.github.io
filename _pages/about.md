@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a Ph. D candidate  candidate in Robotics and Autonomous Systems at the Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/), where I am supervised by [Prof. Jun Ma](https://personal.hkust-gz.edu.cn/junma/index.html). Before HKUST, I was a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically worked with [Prof. Yifan.Zhu](https://yifanzhu95.github.io/). My research interest lie in the how to leverage **physics-informed knowledge** in robotics manipulation, where typically simulation can be widely used.
+I'm a Ph. D candidate in Robotics and Autonomous Systems at the Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/), where I am supervised by [Prof. Jun Ma](https://personal.hkust-gz.edu.cn/junma/index.html). Before HKUST, I was a visiting student at [Yale Grab lab](https://www.eng.yale.edu/grablab/), where I typically worked with [Prof. Yifan.Zhu](https://yifanzhu95.github.io/). My research interest lie in the how to leverage **physics-informed knowledge** in robotics manipulation, where typically simulation can be widely used.
  
 
 
