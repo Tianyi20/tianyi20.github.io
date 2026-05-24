@@ -89,7 +89,7 @@ I'm a Ph. D candidate in Robotics and Autonomous Systems at the Hong Kong Univer
             <p><b>Tianyi Xiang</b>, Jiahang Cao, Sikai Guo, Guoyang Zhao, Andrew F. Luo,and Jun Ma </p>
             <p><i>IEEE Robotics and Automation Letters (IEEE RA-L, 2026)</i>.</p>
             <div class="publication-links">
-                <a href="https://arxiv.org/html/2602.12633v1" title="View PDF">
+                <a href="https://arxiv.org/pdf/2602.12633" title="View PDF">
                     <img src="images/pdf_icon.png" alt="PDF Icon">
                 </a>
                 <a href="https://physics-constrained-real2sim.github.io/" title="Paper Website">
