@@ -82,11 +82,32 @@ I'm a Ph. D candidate in Robotics and Autonomous Systems at the Hong Kong Univer
 
 <h1>Publications</h1>
 <div class="publications-section">
+
+    <div class="publication-item">
+        <img src="../images/FPSA.png" alt="Real-to-Sim-to-Real">
+        <div class="publication-content">
+            <p class="Function-Preserving Data Generation for Zero-Shot Real-to-Sim-to-Real Manipulation"</p>
+            <p><b>Tianyi Xiang</b>, Xupeng XIE, Jiahang Cao, Andrew Luo, Haoang Li, Jun Ma</p>
+            <p><i>International Conference on Robotics and Automation (ICRA 2027), under review</i>.</p>
+            <div class="publication-links">
+                <a href="https://arxiv.org/pdf/2609.18293" title="View PDF">
+                    <img src="images/pdf_icon.png" alt="PDF Icon">
+                </a>
+                <a href="https://fpsa-r2s2r.github.io/" title="Paper Website">
+                    <img src="images/internet.png" alt="Website Icon">
+                </a>
+                <a href="https://github.com/FPSA-r2s2r/FPSA-r2s2r" title="Github Repo">
+                    <img src="../images/github_icon.png" alt="Github Icon">
+                </a>
+            </div>
+        </div>
+    </div>
+
     <div class="publication-item">
         <img src="../images/phy_recon.png" alt="Real-to-Sim">
         <div class="publication-content">
             <p class="publication-title">"Real-to-Sim for Highly Cluttered Environments via Physics-Consistent Inter-Object Reasoning"</p>
-            <p><b>Tianyi Xiang</b>, Jiahang Cao, Sikai Guo, Guoyang Zhao, Andrew F. Luo,and Jun Ma </p>
+            <p><b>Tianyi Xiang</b>, Jiahang Cao, Sikai Guo, Guoyang Zhao, Andrew F. Luo, Jun Ma </p>
             <p><i>IEEE Robotics and Automation Letters (IEEE RA-L, 2026)</i>.</p>
             <div class="publication-links">
                 <a href="https://arxiv.org/pdf/2602.12633" title="View PDF">
