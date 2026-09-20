@@ -124,7 +124,7 @@ I'm a Ph. D candidate in Robotics and Autonomous Systems at the Hong Kong Univer
     </div>
 
     <div class="publication-item">
-        <img src="../images/spotlight.png" alt="Real-to-Sim">
+        <img src="../images/RAL2025.png" alt="Real-to-Sim">
         <div class="publication-content">
             <p class="publication-title">"One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering"</p>
             <p>Yifan Zhu, <b>Tianyi Xiang</b>, Aaron Dollar, Zherong Pan</p>
