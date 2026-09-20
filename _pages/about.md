@@ -86,7 +86,7 @@ I'm a Ph. D candidate in Robotics and Autonomous Systems at the Hong Kong Univer
     <div class="publication-item">
         <img src="../images/FPSA.png" alt="Real-to-Sim-to-Real">
         <div class="publication-content">
-            <p class="Function-Preserving Data Generation for Zero-Shot Real-to-Sim-to-Real Manipulation"</p>
+            <p class="publication-title">"Function-Preserving Data Generation for Zero-Shot Real-to-Sim-to-Real Manipulation"</p>
             <p><b>Tianyi Xiang</b>, Xupeng XIE, Jiahang Cao, Andrew Luo, Haoang Li, Jun Ma</p>
             <p><i>International Conference on Robotics and Automation (ICRA 2027), under review</i>.</p>
             <div class="publication-links">
